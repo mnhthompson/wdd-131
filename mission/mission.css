@@ -2,6 +2,7 @@ body {
     text-align: center;
     font-family: "Times New Roman";
     font-size: 20px;
+    line-height:1.5;
   }
 nav {
     background-color: steelblue;
@@ -49,11 +50,6 @@ h1 {
    adds space inside of an element. You will need to use both to match 
    the design.
 
-
-   To get the titles to look just right you will need to use the 
-   letter-spacing property to space the letters out a bit more than
-   they would normally be. You can also use text-transform to make sure 
-   they are always all caps.
 
    To get yours to match the image you will also need to increase
     the line-height. (A value of 1.5 is usually nice)
