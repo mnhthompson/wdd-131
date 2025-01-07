@@ -32,7 +32,10 @@ h1 {
     color: #006EB6;
     text-transform: uppercase;
     letter-spacing: 3px;
-    text-decoration: underline;
+    font-size: 20px;
+
+    border-bottom: 1px solid lightgray;
+
   }
   img {
     width: 150px;
