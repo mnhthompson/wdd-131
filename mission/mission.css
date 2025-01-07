@@ -5,10 +5,10 @@ body {
     line-height:1.5;
 
     width: 600px;
-    border: 15px solid rgb(0, 0, 0);
+    border: 1px solid lightgray;
     padding: 50px;
     margin: 20px;
-    
+
   }
 
   div {
@@ -60,9 +60,6 @@ h1 {
 
   /*/
  
-
-
-   The content inside the box has been limited to a maximum width of 600px.
 
 
    Remember that margin adds space between elements, while padding 
