@@ -3,11 +3,17 @@ body {
     font-family: "Times New Roman";
     font-size: 20px;
     line-height:1.5;
+
+    width: 600px;
+    border: 15px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin: 20px;
+    
   }
 
   div {
-    width: 300px;
-    border: 15px solid green;
+    width: 600px;
+    border: 15px solid rgb(0, 0, 0);
     padding: 50px;
     margin: 20px;
   }
