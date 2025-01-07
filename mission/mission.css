@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+  }
+nav {
+    background-color: steelblue;
+    padding: 10px;
+  }
+a {
+    color: white;
+    margin: 40px;
+  }
+h1 {
+    color: steelblue;
+  }
+  img {
+    width: 80%;
+    border: 4px solid steelblue;
+  }
+  p {
+    padding: 10px;
+  }
+  footer {
+    background-color: steelblue;
+    color: white;
+  }
+
+  /*/
+   The font size has been set to 20px for the default.
+
+   The font used is the default: Times New Roman
+
+   The color for the subtitle is #006EB6
+
+
+   Note that while the titles and the main block of content are centered,
+   the paragraphs are left aligned
+
+   The content inside the box has been limited to a maximum width of 600px.
+
+
+   Remember that margin adds space between elements, while padding 
+   adds space inside of an element. You will need to use both to match 
+   the design.
+
+
+   To get the titles to look just right you will need to use the 
+   letter-spacing property to space the letters out a bit more than
+   they would normally be. You can also use text-transform to make sure 
+   they are always all caps.
+
+   To get yours to match the image you will also need to increase
+    the line-height. (A value of 1.5 is usually nice)
+
+
+    The image for the logo is larger than we need. 
+    You will need to make it smaller. We can use CSS to do this
+    for now. Later we will learn how to actually change the image file.
+    You can use 150px for the size.
