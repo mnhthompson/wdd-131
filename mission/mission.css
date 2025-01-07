@@ -21,6 +21,7 @@ h1 {
   }
   p {
     padding: 10px;
+    text-align: left;
   }
   footer {
     background-color: steelblue;
