@@ -29,6 +29,7 @@ h1 {
     color: #006EB6;
     text-transform: uppercase;
     letter-spacing: 3px;
+    text-decoration: underline;
   }
   img {
     width: 150px;
