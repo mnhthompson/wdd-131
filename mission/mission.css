@@ -1,5 +1,7 @@
 body {
     text-align: center;
+    font-family: "Times New Roman";
+    font-size: 20px;
   }
 nav {
     background-color: steelblue;
@@ -38,8 +40,7 @@ h1 {
 
    The font used is the default: Times New Roman
 
-   The color for the subtitle is #006EB6
-
+   
 
    Note that while the titles and the main block of content are centered,
    the paragraphs are left aligned
