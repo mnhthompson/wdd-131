@@ -58,8 +58,43 @@ h1 {
 
 
 
-  /*/
+  /*/ DARK MODE /*/
  
+  .dark {
+    background-color: #333;
+    color: white;
 
+  }
+
+  .dark h1 {
+    color: rgb(255, 255, 255);
+  }
+  .dark h2 {
+    color: #A0D4ED;
+     }
+
+
+/*/
+
+
+Define a rule in the CSS with the 
+.dark selector to make all the changes 
+necessary to convert our design to the dark theme.
+
+After getting the dark theme done remove the dark class 
+from the body element.
+
+4.Create a JS file called mission.js and add a script 
+element to our HTML file to link them together.
+
+With JavaScript select the select element out of the DOM.
+
+6.Add an event listener to the selected element. 
+We should listen for a change event.
+
+Create a function called changeTheme 
+that will get called by the event listener 
+when the select option is changed.
+o.
 
    
