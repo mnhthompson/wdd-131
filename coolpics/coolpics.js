@@ -47,7 +47,7 @@ function viewerTemplate(pic, alt) {
     document.body.insertAdjacentHTML("afterbegin", viewerTemplate(BigPic, altText));
 
 	// add a listener to the close button (X) that calls a function called closeViewer when clicked
-    const closeButton = document.getElementById('close-btn');
+    const closeButton = document.querySelector('.close-viewer');
     closeButton.addEventListener('click', closeViewer);}
 
 }
