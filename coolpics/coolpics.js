@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 //-------------------------------------------------------------------------------------------------------------------------------------------------------------
 function viewerTemplate(pic, alt) {
-    return `<div class="viewer" >
+    return `<div class="viewer" id="image-viewer" >
         <button class="close-viewer">X</button>
         <img src="${pic}" alt="${alt}">
     </div>`;
