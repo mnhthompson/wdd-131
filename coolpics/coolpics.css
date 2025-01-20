@@ -130,3 +130,34 @@ h1{text-align: center;}
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+
+  .viewer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.75);
+    display: grid;
+    grid-template-rows: auto 1fr;
+    justify-items: center;
+    align-items: center;
+    z-index: 10;
+  }
+
+  .close-viewer {
+    font-size: 24px;
+    color: white;
+    background: none;
+    border: none;
+    cursor: pointer;
+    align-self: start;
+    justify-self: end;
+    padding: 10px;
+  }
+
+  .viewer img {
+    max-height: 100%;
+    max-width: 100%;
+  }
