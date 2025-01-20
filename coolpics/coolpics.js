@@ -1,4 +1,5 @@
 
+document.addEventListener('DOMContentLoaded', () => {
 function handleResize() {
     const menu = document.querySelector(".menu");
     if (window.innerWidth > 1000) {
@@ -56,5 +57,5 @@ function closeViewer() {
         viewer.remove();
     }}
 
-
+});
 //grape soda is delioushious so tasty
