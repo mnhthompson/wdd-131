@@ -56,14 +56,14 @@ main {
 .gallery h1 {
     font-size: 1.6em;
 }
-figure{
-    border-right: solid 5px #333;
-    border-bottom: solid 5px #333;
-}
+
 img {
     border: solid 5px white;
     max-width: 100%;
     object-fit: cover;
+    border-right: solid 5px #333;
+    border-bottom: solid 5px #333;
+
 }
 footer {
     color: var(--text-light);
