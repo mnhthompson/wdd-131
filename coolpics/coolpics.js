@@ -11,7 +11,7 @@ function handleResize() {
   handleResize();
   window.addEventListener("resize", handleResize);
 
-
+//-------------------------------------------------------------------------------------------------------------------------------------------------------------
 function viewerTemplate(pic, alt) {
     return `<div class="viewer" id="image-viewer">
         <button class="close-viewer" id="close-btn">X</button>
@@ -20,7 +20,7 @@ function viewerTemplate(pic, alt) {
   }
 
 
-  const gallery = document.querySelector('.gallery');
+  const gallery = document.querySelector(".gallery");
   gallery.addEventListener('click', viewHandler);
 
 
@@ -49,7 +49,7 @@ function viewerTemplate(pic, alt) {
     closeButton.addEventListener('click', closeViewer);
 
 }
-
+//---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 function closeViewer() {
     const viewer = document.getElementById('image-viewer');
     if (viewer) {
