@@ -29,6 +29,7 @@ function viewerTemplate(pic, alt) {
 	// create a variable to hold the element that was clicked on from event.target
 
     const clickedElement = event.target;
+    if (clickedElement.tagName.toLowerCase() === 'img'){
 
 	// get the src attribute from that element and 'split' it on the "-"
     const src = clickedElement.getAttribute('src');
@@ -47,7 +48,7 @@ function viewerTemplate(pic, alt) {
 
 	// add a listener to the close button (X) that calls a function called closeViewer when clicked
     const closeButton = document.getElementById('close-btn');
-    closeButton.addEventListener('click', closeViewer);
+    closeButton.addEventListener('click', closeViewer);}
 
 }
 //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
