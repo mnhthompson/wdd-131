@@ -13,10 +13,10 @@ function handleResize() {
 
 
 function viewerTemplate(pic, alt) {
-    return `<div class="viewer">
-      <button class="close-viewer">X</button>
-      <img src="${pic}" alt="${alt}">
-      </div>`;
+    return `<div class="viewer" id="image-viewer">
+        <button class="close-viewer" id="close-btn">X</button>
+        <img src="${pic}" alt="${alt}">
+    </div>`;
   }
 
 
@@ -34,9 +34,11 @@ function viewerTemplate(pic, alt) {
 
     const BigPic = srcParts[0] + "-full.jpeg";
 
+    const altText = "Full-size image";
+
 	// insert the viewerTemplate into the top of the body element
 
-    document.body.insertAdjacentHTML("afterbegin", viewerTemplate);
+    document.body.insertAdjacentHTML("afterbegin", viewerTemplate(BigPic, altText));
 
 	// add a listener to the close button (X) that calls a function called closeViewer when clicked
     const closeButton = document.getElementById('close-btn');
