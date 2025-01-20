@@ -20,6 +20,10 @@ function viewerTemplate(pic, alt) {
   }
 
 
+  const gallery = document.querySelector('.gallery');
+  gallery.addEventListener('click', viewHandler);
+
+
   function viewHandler(event) {
 	// create a variable to hold the element that was clicked on from event.target
 
@@ -52,7 +56,5 @@ function closeViewer() {
         viewer.remove();
     }}
 
-    const gallery = document.querySelector('.gallery');
-    gallery.addEventListener('click', viewHandler);
 
 //grape soda is delioushious so tasty
