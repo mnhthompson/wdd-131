@@ -1,0 +1,66 @@
+:root {
+    --link-color: #CEB5A7;
+    --text-dark: #011627;
+    --text-light: #CEB5A7;
+    --border-color: #0E79B2;
+    --body-font: Georgia, Serif;
+    --headline-font: Impact, Serif;
+    }
+  
+    body {background-color:#CBF7ED;}
+
+    header h1 {
+        margin: 0 auto;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+    }
+    .skiptocontent a {
+        position: absolute;
+        top: -50px;
+    }
+    .skiptocontent a:focus {
+        top:0px
+    }
+    nav {
+        display: grid;
+        grid-template-columns: 1fr 1fr .25fr;
+        border-top: 1px solid var(--border-color);
+        border-bottom: 1px solid var(--border-color);
+    }
+    nav ul {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        justify-content: end;
+        justify-items: end;
+        grid-column-start: 2;
+        list-style-type: none;
+        color: var(--link-color);
+        font-size: 1.2em;
+    }
+    a {
+        color: var(--border-color);
+    }
+    main {
+        display: grid;
+        grid-template-columns: 3fr 1fr;
+        margin-top: 10px;
+    }
+    #filters {
+        border: 1px solid var(--border-color);
+    }
+    .itemBook {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        justify-content: center;
+        justify-items: center;
+        text-align: left;
+        align-content: center;
+    }
+    .metaBook {
+        border-right: 1px solid var(--border-color);
+        text-align: center;
+    }
+    h3 {
+        color: var(--text-dark);
+    }
