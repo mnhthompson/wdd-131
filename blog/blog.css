@@ -49,7 +49,20 @@
     #filters {
         
         border: 1px solid var(--border-color);
+    
     }
+
+    .article {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        justify-content: center;
+        justify-items: start; 
+        text-align: left;
+        gap: 20px;
+        margin-bottom: 20px;
+    }
+
+
     .itemBook {
         display: grid;
         grid-template-columns: 1fr 2fr;
