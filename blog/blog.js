@@ -40,8 +40,9 @@ const articles = [
     },
   ];
   
+  document.addEventListener("DOMContentLoaded", function() {
   // Select the container where articles will go
-  const articlesContainer = document.querySelector("#articles-container");
+  const articlesContainer = document.querySelector("#gridBook");
   
   // Function to render articles
   function renderArticles() {
@@ -77,3 +78,5 @@ const articles = [
   
   // Call the function to render the articles
   renderArticles();
+
+});
