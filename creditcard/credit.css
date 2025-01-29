@@ -1,0 +1,210 @@
+/* Root Custom Properties (CSS Variables) */
+:root {
+    --link-color: #CEB5A7;
+    --text-dark: #011627;
+    --text-light: #000000;
+    --border-color: #122e3d;
+    --background-color: #f4f4f4;
+    --card-front-bg: #c5c5c5;
+    --button-bg: #0E79B2;
+    --button-hover-bg: #2980b9;
+    --input-bg: #ecf0f1;
+    --chip-bg: #CEB5A7;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+    --body-font: Georgia, Serif;
+    --headline-font: Impact, Serif;
+}
+
+/* General Styles */
+body {
+    font-family: var(--body-font);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: var(--background-color);
+    color: var(--text-dark);
+}
+
+header, footer {
+    background-color: var(--border-color);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+h1, h2 {
+    margin: 0.5rem 0;
+    font-family: var(--headline-font);
+}
+
+
+
+/* Card Front Styling */
+.card-front {
+    display: grid;
+    right: 75px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 15px;
+    padding: 10px;
+    width: 100%;
+    background-color: var(--card-front-bg);
+    border-radius: 15px;
+    position: relative;
+    z-index: 2;
+    width: 350px;
+    height: 220px;
+    box-shadow: 0 6px 10px var(--shadow-color);
+    margin: 30px auto;
+    color: white;
+    justify-items: start;
+    align-items: center;
+}
+
+/* Card Back Styling */
+.card-back {
+
+    bottom: 230px;
+    left: 50px;
+
+
+    
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 15px;
+    padding: 10px;
+    
+    background-color: var(--card-front-bg);
+    border-radius: 15px;
+    position: relative;
+    z-index: 1;
+    width: 350px;
+    height: 220px;
+    justify-items: start;
+    align-items: center;
+    box-shadow: 0 6px 10px var(--shadow-color);
+    margin: 30px auto;
+    color: white;
+}
+
+
+/* Form Group */
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: auto;
+    border-color: #000000;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+label {
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: var(--text-light);
+}
+
+input {
+    padding: 8px 12px;
+    
+    border-radius: 5px;
+    background-color: var(--input-bg);
+    color: #333;
+    font-size: 14px;
+    width: auto;
+    
+    
+}
+
+input:focus {
+    border: 2px solid var(--border-color);
+}
+
+
+
+.cvv-bar {
+    background-color: var(--text-dark);
+    height: 40px;
+    width: 100%;
+}
+
+input[type="text"] {
+    padding: 10px;
+    background-color: var(--input-bg);
+   
+}
+
+
+
+
+
+
+
+/* Submit Button */
+button {
+
+    
+    padding: 10px 20px;
+    background-color: var(--button-bg);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+    font-size: 16px;
+    width: auto;
+    position: absolute;
+    top: 400px;
+    left: 400px;
+}
+
+button:hover {
+    background-color: var(--button-hover-bg);
+}
+
+#card-number {
+    width: 128%;
+    left:11px;
+
+}
+
+#card-year {
+    position: absolute;
+    left: 280px;
+    width: 5%;
+    float: right;
+    top: 189px;
+  }
+#card-month {
+    width: 12% !important;
+    float: left;
+    right: 72px;
+  }
+
+  #cvv{
+    width: 28% !important;
+    float: right;
+  }
+  
+
+  .card-image {
+    width: 55px;
+    align-self: start; /* Align to the top */
+}
+
+/*---------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
