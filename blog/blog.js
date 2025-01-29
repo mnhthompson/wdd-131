@@ -49,7 +49,7 @@ const articles = [
     articles.forEach((article) => {
       // Create a new article element
       const articleElement = document.createElement("article");
-      articleElement.classList.add("article"); // Add a class for styling
+      articleElement.classList.add("article-book"); // Add a class for styling
   
       // Create the HTML content
       const articleHTML = `
