@@ -15,32 +15,43 @@
     
 </head>
   
-  
+  <!--------------------------------------------------------------------------------------------------------------------->
   
 <body>
-<div class="testbox">
-    <h1>Camp Registration</h1>
+
+    <div class="testbox">
+        <h1>Camp Registration</h1>
     <form>
-    <fieldset class="participants">
+
+        <button type="button" id="add">Add Participant</button>
+
+    <fieldset class="participants" id="participants_Style">
         <legend>Participant Information</legend>
+
+        
+
         <section class="participant1">
         <p>Participant 1</p>
         <div class="item">
             <label for="fname"> First Name<span>*</span></label>
             <input id="fname" type="text" name="fname" value="" required="">
         </div>
+
         <div class="item activities">
             <label for="activity">Activity #<span>*</span></label>
             <input id="activity" type="text" name="activity">
         </div>
+
         <div class="item">
             <label for="fee">Fee ($)<span>*</span></label>
             <input id="fee" type="number" name="fee">
         </div>
+
         <div class="item">
             <label for="date">Desired Date <span>*</span></label>
             <input id="date" type="date" name="date">
         </div>
+
         <div class="item">
             <p>Grade</p>
             <select>
@@ -59,10 +70,21 @@
             <option value="12">12th</option>
             </select>
         </div>
+  
         </section>
-        <button type="button" id="add">Add Participant</button>
+        
     </fieldset>
 
+   
+    
+    
+
+  <!--------------------------------------------------------------------------------------------------------------------->
+  
+
+
+  <!--------------------------------------------------------------------------------------------------------------------->
+  
     <fieldset>
         <legend>Household / Adult Primary Contact</legend>
         <div class="columns">
@@ -125,6 +147,11 @@
         </div>
         </div>
     </fieldset>
+
+    
+  <!--------------------------------------------------------------------------------------------------------------------->
+  
+
     <div class="btn-block">
         <button type="submit" id="submitButton">Submit</button>
     </div>

@@ -160,3 +160,16 @@
     }
   }
   
+/*------------------------------------------------------------------------------------------------------------------------------------
+  /* Style for the participants section to display two participants per row */
+#participants_Style {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+/* Ensure the Add Participant button stays at the bottom */
+button#addParticipant {
+    grid-column: span 2;
+    justify-self: center;
+}
