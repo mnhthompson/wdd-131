@@ -113,6 +113,10 @@ footer {
   padding: 5px;
   width: 100px;
 }
+.credit
+{
+  font-size: 0.6em;
+}
 
 @media (min-width: 600px) {
   .recipe {
