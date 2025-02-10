@@ -101,6 +101,12 @@ footer {
   text-align: center;
   padding: 10px 0;
   font-size: 0.8em;
+  
+}
+
+.icon {
+  padding: 5px;
+  width: 150px;
 }
 
 
