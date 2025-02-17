@@ -7,6 +7,7 @@
     <meta name="author" content="Marcus Thompson">
     <meta name="viewport" content="interactive-widget=resizes-content" />
     <script type="text/javascript" src="main.js" defer></script>
+    <script src="main.js" type="module"></script>
     <link rel="icon" href="favicon.png" type="image/png">
     <!-- Social Media Meta: New-->
     <meta property="og:title" content="recipe Book">
@@ -28,8 +29,14 @@
         <h1><img src="images/recipe-book.png" alt="book logo" class="logo">Recipe Book</h1>
     
         <section class="search">
-            <input type="text" id="search" placeholder="Find a Recipe">
-            <button>🔍</button>
+
+            <form id="search-form">
+                <input type="text" id="search-input" placeholder="Find a Recipe" />
+                <button id="search-button">Search 🔍</button>
+            </form>
+            <div id="recipe-container"></div>
+            
+            
         </section>
     
     </header>
