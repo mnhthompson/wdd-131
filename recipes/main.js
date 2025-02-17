@@ -76,7 +76,7 @@ function recipeTemplate(recipe) {
         <div class="tags">
                 ${tagsTemplate(recipe.tags)}
             </div>
-            <h2><a href="#">${recipe.name}</a></h2>
+            <h2>${recipe.name}</h2>
             <p class="rating">
                 ${ratingTemplate(recipe.rating)}
             </p>
