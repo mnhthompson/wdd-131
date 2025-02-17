@@ -24,10 +24,11 @@ function filter(searchQuery) {
 // Event handler for the search functionality
 function searchHandler(e) {
     e.preventDefault();
-    const searchQuery = document.querySelector('#search-input').value.toLowerCase(); 
+    const searchQuery = document.querySelector('#search-input').value.trim().toLowerCase(); 
     const filteredRecipes = filter(searchQuery);
     renderRecipes(filteredRecipes); 
 }
+
 
 
 
@@ -47,7 +48,7 @@ function getRandomListEntry(list) {
 function tagsTemplate(tags) {
     let html = '';
     tags.forEach(tag => {
-        html += `<li>${tag}</li>`;
+        html += `<span class="tag">${tag}</span>`;
     });
     return html;
 }
@@ -74,9 +75,7 @@ function recipeTemplate(recipe) {
         <img src="${recipe.image}" alt="Image of ${recipe.name}" />
         <figcaption>
         <div class="tags">
-            <span class="tag">
                 ${tagsTemplate(recipe.tags)}
-            </span>
             </div>
             <h2><a href="#">${recipe.name}</a></h2>
             <p class="rating">
