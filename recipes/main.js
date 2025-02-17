@@ -49,7 +49,7 @@ function ratingTemplate(rating) {
 // Template function to generate HTML for a recipe
 function recipeTemplate(recipe) {
     return `<figure class="recipe">
-        <img src="images/${recipe.image}" alt="Image of ${recipe.name}" />
+        <img src="${recipe.image}" alt="Image of ${recipe.name}" />
         <figcaption>
             <ul class="recipe__tags">
                 ${tagsTemplate(recipe.tags)}
