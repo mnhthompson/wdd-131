@@ -73,9 +73,11 @@ function recipeTemplate(recipe) {
     return `<figure class="recipe">
         <img src="${recipe.image}" alt="Image of ${recipe.name}" />
         <figcaption>
-            <ul class="tag">
+        <div class="tags">
+            <span class="tag">
                 ${tagsTemplate(recipe.tags)}
-            </ul>
+            </span>
+            </div>
             <h2><a href="#">${recipe.name}</a></h2>
             <p class="rating">
                 ${ratingTemplate(recipe.rating)}
