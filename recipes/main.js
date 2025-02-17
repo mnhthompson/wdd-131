@@ -7,6 +7,28 @@ import recipes from './recipes.mjs';
 const searchButton = document.querySelector('#search-button'); 
 searchButton.addEventListener('click', searchHandler);
 
+// Function to filter recipes based on a search query
+function filter(searchQuery) {
+    const filtered = recipes.filter(recipe => {
+        return recipe.name.toLowerCase().includes(searchQuery) ||
+               recipe.description.toLowerCase().includes(searchQuery) ||
+               recipe.tags.some(tag => tag.toLowerCase().includes(searchQuery)) ||
+               recipe.ingredients.some(ingredient => ingredient.toLowerCase().includes(searchQuery));
+    });
+
+    const sorted = filtered.sort((a, b) => a.name.localeCompare(b.name)); 
+    return sorted;
+}
+
+
+// Event handler for the search functionality
+function searchHandler(e) {
+    e.preventDefault();
+    const searchQuery = document.querySelector('#search-input').value.toLowerCase(); 
+    const filteredRecipes = filter(searchQuery);
+    renderRecipes(filteredRecipes); 
+}
+
 
 
 // Function to generate a random number between 0 and num - 1
@@ -84,27 +106,6 @@ init();
 
 
 
-// Function to filter recipes based on a search query
-function filter(query) {
-    const filtered = recipes.filter(recipe => {
-        return recipe.name.toLowerCase().includes(query) ||
-               recipe.description.toLowerCase().includes(query) ||
-               recipe.tags.some(tag => tag.toLowerCase().includes(query)) ||
-               recipe.ingredients.some(ingredient => ingredient.toLowerCase().includes(query));
-    });
-
-    const sorted = filtered.sort((a, b) => a.name.localeCompare(b.name)); 
-    return sorted;
-}
-
-
-// Event handler for the search functionality
-function searchHandler(e) {
-    e.preventDefault();
-    const searchQuery = document.querySelector('#search-input').value.toLowerCase(); 
-    const filteredRecipes = filter(searchQuery);
-    renderRecipes(filteredRecipes); 
-}
 
 // to test
 console.log(getRandomListEntry(recipes));
