@@ -12,8 +12,7 @@ function filter(searchQuery) {
     const filtered = recipes.filter(recipe => {
         return recipe.name.toLowerCase().includes(searchQuery) ||
                recipe.description.toLowerCase().includes(searchQuery) ||
-               recipe.tags.some(tag => tag.toLowerCase().includes(searchQuery)) ||
-               recipe.ingredients.some(ingredient => ingredient.toLowerCase().includes(searchQuery));
+               recipe.tags.some(tag => tag.toLowerCase().includes(searchQuery)) ;
     });
 
     const sorted = filtered.sort((a, b) => a.name.localeCompare(b.name)); 
