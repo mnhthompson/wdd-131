@@ -51,14 +51,14 @@ function recipeTemplate(recipe) {
     return `<figure class="recipe">
         <img src="${recipe.image}" alt="Image of ${recipe.name}" />
         <figcaption>
-            <ul class="recipe__tags">
+            <ul class="tag">
                 ${tagsTemplate(recipe.tags)}
             </ul>
             <h2><a href="#">${recipe.name}</a></h2>
-            <p class="recipe__ratings">
+            <p class="rating">
                 ${ratingTemplate(recipe.rating)}
             </p>
-            <p class="recipe__description">${recipe.description}</p>
+            <p class="description">${recipe.description}</p>
         </figcaption>
     </figure>`;
 }
