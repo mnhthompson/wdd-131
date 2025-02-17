@@ -1,15 +1,13 @@
 
+import recipes from './recipes.js';
 
 //grape soda
 
 //event listener search button
-const searchButton = document.querySelector('#search-button'); // Adjust to your search button
+const searchButton = document.querySelector('#search-button'); 
 searchButton.addEventListener('click', searchHandler);
 
 
-
-
-import recipes from './recipes.js';
 
 // Function to generate a random number between 0 and num - 1
 function random(num) {
@@ -67,7 +65,7 @@ function recipeTemplate(recipe) {
 
 // Function to render recipes
 function renderRecipes(recipeList) {
-    const recipeContainer = document.querySelector('#recipe-container'); // Adjust the selector to your container
+    const recipeContainer = document.querySelector('#recipe-container'); 
     let html = '';
     recipeList.forEach(recipe => {
         html += recipeTemplate(recipe);
@@ -79,7 +77,7 @@ function renderRecipes(recipeList) {
 // Initialize the page with a random recipe
 function init() {
     const recipe = getRandomListEntry(recipes);
-    renderRecipes([recipe]); // Pass a single recipe in an array for rendering
+    renderRecipes([recipe]); 
 }
 init();
 
@@ -95,7 +93,7 @@ function filter(query) {
                recipe.ingredients.some(ingredient => ingredient.toLowerCase().includes(query));
     });
 
-    const sorted = filtered.sort((a, b) => a.name.localeCompare(b.name)); // Sort by name
+    const sorted = filtered.sort((a, b) => a.name.localeCompare(b.name)); 
     return sorted;
 }
 
@@ -103,9 +101,9 @@ function filter(query) {
 // Event handler for the search functionality
 function searchHandler(e) {
     e.preventDefault();
-    const searchQuery = document.querySelector('#search-input').value.toLowerCase(); // Adjust to your search input element
+    const searchQuery = document.querySelector('#search-input').value.toLowerCase(); 
     const filteredRecipes = filter(searchQuery);
-    renderRecipes(filteredRecipes); // Render filtered list of recipes
+    renderRecipes(filteredRecipes); 
 }
 
 // to test
