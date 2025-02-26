@@ -1,0 +1,250 @@
+What is 31 + 13?|30,44,44|44
+What is 26 + 17?|25,43,43|43
+What is 26 squared?|25,40,676|676
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What is 22 squared?|21,29,484|484
+What is 19 squared?|18,20,361|361
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What is 17 squared?|16,25,289|289
+In what year did World War II end?|1943,1945,1950|1945
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What is 45 squared?|44,64,2025|2025
+In what year did World War II end?|1943,1945,1950|1945
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+In what year did World War II end?|1943,1945,1950|1945
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+How many continents are there on Earth?|5,6,7|7
+What is 22 + 12?|21,34,34|34
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is 67 * 17?|66,84,1139|1139
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is 89 squared?|88,94,7921|7921
+In what year did World War II end?|1943,1945,1950|1945
+What is 82 + 14?|81,96,96|96
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+How many continents are there on Earth?|5,6,7|7
+How many continents are there on Earth?|5,6,7|7
+What is 76 * 3?|75,79,228|228
+What is 8 + 19?|7,27,27|27
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What is 37 squared?|36,52,1369|1369
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+What is 85 + 11?|84,96,96|96
+What is 37 + 18?|36,55,55|55
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+How many continents are there on Earth?|5,6,7|7
+How many continents are there on Earth?|5,6,7|7
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What is 83 + 13?|82,96,96|96
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+What is 79 + 15?|78,94,94|94
+What is 82 * 17?|81,99,1394|1394
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+In what year did World War II end?|1943,1945,1950|1945
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What is 46 squared?|45,48,2116|2116
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+In what year did World War II end?|1943,1945,1950|1945
+In what year did World War II end?|1943,1945,1950|1945
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+How many continents are there on Earth?|5,6,7|7
+What is 46 squared?|45,57,2116|2116
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+How many continents are there on Earth?|5,6,7|7
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+How many continents are there on Earth?|5,6,7|7
+In what year did World War II end?|1943,1945,1950|1945
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+How many continents are there on Earth?|5,6,7|7
+What is 56 + 7?|55,63,63|63
+What is 65 squared?|64,76,4225|4225
+What is 33 * 11?|32,44,363|363
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+What is 74 squared?|73,76,5476|5476
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+What is 13 * 2?|12,15,26|26
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is 45 + 20?|44,65,65|65
+What is 66 squared?|65,76,4356|4356
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+What is 44 * 20?|43,64,880|880
+What is 44 + 5?|43,49,49|49
+What is 86 + 2?|85,88,88|88
+What is 46 squared?|45,47,2116|2116
+What is 71 squared?|70,83,5041|5041
+What is 76 squared?|75,94,5776|5776
+What is 77 squared?|76,84,5929|5929
+In what year did World War II end?|1943,1945,1950|1945
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is 58 * 16?|57,74,928|928
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+In what year did World War II end?|1943,1945,1950|1945
+What is 63 squared?|62,80,3969|3969
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What is 56 squared?|55,76,3136|3136
+How many continents are there on Earth?|5,6,7|7
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+What is 2 squared?|1,15,4|4
+What is 24 + 12?|23,36,36|36
+What is 48 squared?|47,60,2304|2304
+How many continents are there on Earth?|5,6,7|7
+What is 75 * 7?|74,82,525|525
+How many continents are there on Earth?|5,6,7|7
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+In what year did World War II end?|1943,1945,1950|1945
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What is 21 * 6?|20,27,126|126
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is 82 squared?|81,96,6724|6724
+How many continents are there on Earth?|5,6,7|7
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+How many continents are there on Earth?|5,6,7|7
+What is 43 + 17?|42,60,60|60
+How many continents are there on Earth?|5,6,7|7
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+How many continents are there on Earth?|5,6,7|7
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+What is 12 * 1?|11,13,12|12
+What is 89 squared?|88,103,7921|7921
+What is 23 + 18?|22,41,41|41
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What is 10 * 6?|9,16,60|60
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+What is 57 squared?|56,64,3249|3249
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is 84 * 1?|83,85,84|84
+How many continents are there on Earth?|5,6,7|7
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What is 84 + 13?|83,97,97|97
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+In what year did World War II end?|1943,1945,1950|1945
+How many continents are there on Earth?|5,6,7|7
+What is 85 * 6?|84,91,510|510
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+What is 13 + 19?|12,32,32|32
+How many continents are there on Earth?|5,6,7|7
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What is 59 * 3?|58,62,177|177
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What is 7 squared?|6,21,49|49
+What is 56 squared?|55,75,3136|3136
+In what year did World War II end?|1943,1945,1950|1945
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+How many continents are there on Earth?|5,6,7|7
+In what year did World War II end?|1943,1945,1950|1945
+What is 51 * 11?|50,62,561|561
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is 90 + 13?|89,103,103|103
+What is 31 squared?|30,32,961|961
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is 29 squared?|28,36,841|841
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+In what year did World War II end?|1943,1945,1950|1945
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+How many continents are there on Earth?|5,6,7|7
+In what year did World War II end?|1943,1945,1950|1945
+What is 50 * 3?|49,53,150|150
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
+How many continents are there on Earth?|5,6,7|7
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What is the capital of France?|Berlin,Madrid,Paris|Paris
+What is 17 * 1?|16,18,17|17
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
+What is 84 squared?|83,102,7056|7056
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
+How many continents are there on Earth?|5,6,7|7
+What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
