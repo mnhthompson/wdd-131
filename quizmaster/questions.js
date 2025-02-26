@@ -1,4 +1,5 @@
 
+
 export async function fetchQuestions() {
     const response = await fetch('questions.txt');
     const text = await response.text();
@@ -20,7 +21,8 @@ export async function fetchQuestions() {
         return [];
     }
 
-
+    // Select 10 random questions from the available ones
+    const selected = availableQuestions.sort(() => 0.5 - Math.random()).slice(0, 10);
 
     // Update the selected questions in localStorage
     const updatedSelectedQuestions = [...selectedQuestions, ...selected];
