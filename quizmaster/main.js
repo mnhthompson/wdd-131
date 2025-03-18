@@ -17,7 +17,7 @@ function generateQuiz() {
     <div class="quiz-card2">
     <div class="question">${q.question}</div>
         ${q.options.map((option, optionIndex) => `
-            <div class="quiz-card">
+            <section class="quiz-card">
             <div class="form__radio-group">
                 <label for="radio${index}_${optionIndex}">
                     <input type="radio" id="radio${index}_${optionIndex}" class="form__radio-input" name="question${index}" value="${option}">
@@ -25,7 +25,7 @@ function generateQuiz() {
                     <span>${option}</span>
                 </label>
             </div>
-            </div>
+            </section>
             </div>
             </div>
         `).join('')}
