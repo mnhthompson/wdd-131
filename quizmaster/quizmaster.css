@@ -239,15 +239,15 @@ nav a:hover {
             position: absolute;
             left: 0;
             bottom: 0;
-            border-bottom: --border-bottom-input;
+            border-bottom: var(--border-bottom-input);
             width: 30px;
-            transition: --border-bottom-transition;
+            transition: var(--border-bottom-transition);
         }
     }
 
     input:focus ~ .inner-label {
         &:before {
-            border-bottom: --border-bottom-input-focus;
+            border-bottom: var(--border-bottom-input-focus);
         }
     }
 
