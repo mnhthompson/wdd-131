@@ -200,11 +200,8 @@ nav a:hover {
   align-items: center;
   gap: 1rem;
   font-size: 1.5rem;
-  cursor: pointer;
-  content: '';
-  pointer-events: auto;
+  cursor: pointer; 
   padding-left: 2rem;
-
 }
 
 .form__radio-button {
@@ -217,7 +214,14 @@ nav a:hover {
   transform: translateY(-2px);
   z-index: 1;
   cursor: pointer;
+  transition: background-color 0.3s ease-in-out; 
 }
+
+
+.form__radio-input:checked + .form__radio-label .form__radio-button {
+  background-color: var(--accent2-color); 
+}
+
 
 .form__radio-button::after {
   content: "";
@@ -228,17 +232,17 @@ nav a:hover {
   border-radius: 50%;
   top: 50%;
   left: 50%;
-  transition: opacity 0.1s ease-in-out;
+  background-color: transparent;
   transform: translate(-50%, -50%);
-  background-color: var(--accent2-color);
-  opacity: 0;
+  transition: opacity 0.3s ease-in-out; 
+  opacity: 0; 
 }
 
-.form__radio-input:checked + .form__radio-label .form__radio-button::before {
-  background-color: var(--accent2-color); 
-  content: "\2713"; /* Unicode character for checkmark */
+.form__radio-input:checked + .form__radio-label .form__radio-button::after {
+  content: "\2713"; 
   color: white; 
-  font-size: 14px;
+  font-size: 16px;
   text-align: center;
-  line-height: 1.5rem;
+  line-height: 1.5rem; 
+  opacity: 1; 
 }
