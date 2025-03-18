@@ -186,8 +186,6 @@ nav a:hover {
 
 /*----------------------*/
 
-
-
 .form {
   padding: 2rem;
 }
@@ -211,7 +209,7 @@ nav a:hover {
 .form__radio-button {
   height: 1.5rem;
   width: 1.5rem;
-  border: 5px solid #55c57a;
+  border: 5px solid var(--accent2-color);
   border-radius: 50%;
   display: inline-block;
   position: relative;
@@ -229,7 +227,7 @@ nav a:hover {
   left: 50%;
   transition: opacity 0.1s;
   transform: translate(-50%, -50%);
-  background-color: #55c57a;
+  background-color: var(--accent2-color);
   opacity: 0;
 }
 
