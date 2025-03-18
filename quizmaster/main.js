@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             <div class="question">${q.question}</div>
             ${q.options.map(option => `
                 <label>
-                    <input type="radio" name="question${index}" value="${option}">
+                    <input type="radio" id="radio-2" name="question${index}" value="${option}">
                     ${option}
                 </label>
             `).join('')}
