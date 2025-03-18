@@ -228,7 +228,7 @@ nav a:hover {
   border-radius: 50%;
   top: 50%;
   left: 50%;
-  transition: opacity 0.1s;
+  transition: opacity 0.1s ease-in-out;
   transform: translate(-50%, -50%);
   background-color: var(--accent2-color);
   opacity: 0;
@@ -237,10 +237,6 @@ nav a:hover {
 .form__radio-input:checked + .form__radio-label .form__radio-button::after {
   opacity: 1;
   content: '\2713'; /* Checkmark */
-  position: absolute;
-  top: 50%;
-  left: 0;
-  transform: translateY(-50%);
   color: var(--accent2-color) ; 
   font-size: 16px;
   font-weight: bold;
