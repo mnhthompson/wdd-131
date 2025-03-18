@@ -12,8 +12,8 @@ document.addEventListener("DOMContentLoaded", async () => {
         quizContainer.innerHTML = questions.map((q, index) => `
             <div class="question">${q.question}</div>
             ${q.options.map(option => `
-                <label for="radio-2">
-                    <input type="radio" id="radio-2" name="question${index}" value="${option}">
+                <label for="radio">
+                    <input type="radio" id="radio" name="question${index}" value="${option}">
                     ${option}
                 </label>
             `).join('')}

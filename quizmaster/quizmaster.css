@@ -181,30 +181,5 @@ nav a:hover {
 }
 
 
-/**** RED radio button code ****/
-#radio-2 + label {
-  left: -20vw;
-  background: #EA4335;
-  border-color: #EA4335!important;
-  animation-delay: .2s;
-}
-#radio-2:checked + label {
-  background: white;
-  border: 1vw solid;
-  box-shadow: inset rgba(0, 0, 0, 0.117647) 0 0 .6vw 0, inset rgba(0, 0, 0, 0.239216) 0 .6vw .8vw 0;
-  transition: all .2s;
-}
-#radio-2:checked + label:before {
-  width: 5vw;
-  height: 5vw;
-  background: #EA4335;
-  transition: all .4s;
-}
-/* for IE */
-#radio-2:not(:checked) + label:before {
-  width: 8vw;
-  height: 8vw;
-  background: #EA4335;
-  box-shadow: none;
-}
+
 
