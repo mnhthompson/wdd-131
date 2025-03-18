@@ -11,13 +11,13 @@ document.addEventListener("DOMContentLoaded", async () => {
     function generateQuiz() {
         quizContainer.innerHTML = questions.map((q, index) => `
             <div class="question">${q.question}</div>
-            ${q.options.map(option => `
+            ${q.options.map((option, optionIndex) => `
                 <div class="form__radio-group">
-                <label for="radio${index}">
-                    <input type="radio" id="radio${index}" class="form__radio-input" name="question${index}" value="${option}">
-                    <span class='form__radio-button'></span>
-                    <span>${option}</span>
-                </label>
+                    <label for="radio$${optionIndex}">
+                        <input type="radio" id="radio$${optionIndex}" class="form__radio-input" name="question${index}" value="${option}">
+                        <span class="form__radio-button"></span>
+                        <span>${option}</span>
+                    </label>
                 </div>
             `).join('')}
         `).join('');
