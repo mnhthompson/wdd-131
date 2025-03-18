@@ -188,11 +188,6 @@ nav a:hover {
 
 
 
-/* Hide the default radio button */
-input[type="radio"] {
-  display: none; /* Hides the default radio button */
-}
-
 /* Style the label */
 .radio-label {
   position: relative;
@@ -203,25 +198,33 @@ input[type="radio"] {
   line-height: 24px;
 }
 
-/* Always show a dotted line underneath the label */
-.radio-label .inner-label:after {
-  content: '';
-  position: absolute;
-  bottom: -4px; /* Place it below the label */
-  left: 0;
-  width: 100%;
-  border-bottom: 2px dotted #1976D2; /* Dotted line */
+/* Ensure the radio button is hidden */
+label.radio-label input[type="radio"] {
+  display: none;
 }
 
-/* When the radio button is checked, show the checkmark */
-input[type="radio"]:checked + .inner-label:before {
-  content: '\2713'; /* Unicode for check mark */
+/* Create a dotted border and checkmark with higher specificity */
+label.radio-label input[type="radio"]:checked + .inner-label:after {
+  content: '\2713'; /* Checkmark */
   position: absolute;
-  top: 0;
+  top: 50%;
   left: 0;
-  color: #1976D2; /* Checkmark color */
-  font-size: 20px;
+  transform: translateY(-50%);
+  color: #1976D2 !important; /* Ensure the checkmark color */
+  font-size: 16px;
+  font-weight: bold;
 }
+
+/* Dotted line underneath with important flag */
+label.radio-label .inner-label:after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 100%;
+  border-bottom: 2px dotted #1976D2 !important; /* Dotted line with !important */
+}
+
 
 /* Normal label style */
 .radio-label .inner-label {
