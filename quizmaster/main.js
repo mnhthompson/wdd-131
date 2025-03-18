@@ -51,6 +51,12 @@ document.addEventListener("DOMContentLoaded", async () => {
         
         const score = answers.filter(correct => correct).length;
         resultsContainer.textContent = `You got ${score} out of ${questions.length} correct!`;
+
+        if (score === questions.length) {
+            congratulationsImage.style.display = 'block';  // Show the congratulatory image
+        } else {
+            congratulationsImage.style.display = 'none';  // Hide the image if not all answers are correct
+        }
     }
     
     submitButton.addEventListener("click", showResults);

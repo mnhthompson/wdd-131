@@ -390,4 +390,5 @@ h1:hover, h2:hover {
 img {
   max-width: 100%;
   height: auto;
+  border-radius: 40px;
 }
