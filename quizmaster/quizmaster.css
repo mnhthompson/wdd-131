@@ -188,7 +188,6 @@ nav a:hover {
 
 
 
-/* Style the label */
 .radio-label {
   position: relative;
   display: inline-block;
@@ -198,35 +197,34 @@ nav a:hover {
   line-height: 24px;
 }
 
-/* Ensure the radio button is hidden */
+
 label.radio-label input[type="radio"] {
   display: none;
 }
 
-/* Create a dotted border and checkmark with higher specificity */
+
 label.radio-label input[type="radio"]:checked + .inner-label:after {
   content: '\2713'; /* Checkmark */
   position: absolute;
   top: 50%;
   left: 0;
   transform: translateY(-50%);
-  color: #1976D2 !important; /* Ensure the checkmark color */
+  color: #1976D2 ; 
   font-size: 16px;
   font-weight: bold;
 }
 
-/* Dotted line underneath with important flag */
+
 label.radio-label .inner-label:after {
   content: '';
   position: absolute;
   bottom: -4px;
   left: 0;
   width: 100%;
-  border-bottom: 2px dotted #1976D2 !important; /* Dotted line with !important */
+  border-bottom: 2px dotted #1976D2 ; 
 }
 
 
-/* Normal label style */
 .radio-label .inner-label {
   position: relative;
   padding-left: 30px;
