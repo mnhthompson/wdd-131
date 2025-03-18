@@ -203,6 +203,8 @@ nav a:hover {
   cursor: pointer;
   content: '';
   border-bottom: 2px dotted #1976D2 ; 
+  pointer-events: auto;
+  padding-left: 2rem;
 
 }
 
@@ -214,6 +216,7 @@ nav a:hover {
   display: inline-block;
   position: relative;
   transform: translateY(-2px);
+  z-index: 1;
 }
 
 .form__radio-button::after {
