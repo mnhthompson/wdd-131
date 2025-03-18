@@ -191,13 +191,6 @@ nav a:hover {
 
 
 
-body {
-  background: #111;
-  color: #fff;
-  font-family: 'Courier New', monospace;
-  font-size: 15px;
-  min-height: 100vh;
-}
 
 .center {
   display: flex;
