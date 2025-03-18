@@ -29,9 +29,6 @@ Fonts are separated by a | */
   --nav-hover-link-color: white;
   --nav-hover-background-color: var(--primary-color);
 
-  --border-bottom-input: 1px dashed rgba(255, 255, 255, 0.25);
-  --border-bottom-input-focus: 1px solid rgba(255, 255, 255, 0.75);
-  --border-bottom-transition: border-bottom 0.5s ease;
 }
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
@@ -191,16 +188,13 @@ nav a:hover {
 
 
 
-.center {
-  display: flex;
-  min-height: 100vh;
-}
-
 .radio-group {
   margin: auto;
   display: flex;
+}
 
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
+  .radio-group {
     flex-direction: column;
     align-items: flex-start;
     text-align: left;
@@ -210,52 +204,52 @@ nav a:hover {
 .radio-group-label {
   display: block;
   width: 100%;
-  margin: 0.625rem 0; 
+  margin: 10px 0;
 }
 
 .radio-label {
   position: relative;
   display: inline-block;
-  margin: 0.625rem; 
+  margin: 10px;
+}
 
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
+  .radio-label {
     display: block;
-    margin: 0.625rem 0;
+    margin: 10px 0;
   }
+}
 
-  input {
-    position: absolute;
-    opacity: 0;
-    width: 0;
-    height: 0;
-  }
+.radio-label input {
+  opacity: 0;
+  position: absolute;
+}
 
-  .inner-label {
-    position: relative;
-    display: inline-block;
-    padding-left: 2.5rem;
+.radio-label .inner-label {
+  position: relative;
+  display: inline-block;
+  padding-left: 40px;
+}
 
-    &:before {
-      content: '';
-      position: absolute;
-      left: 0;
-      bottom: 0;
-      border-bottom: var(--border-bottom-input, 2px solid #ccc); 
-      width: 1.875rem; 
-      transition: var(--border-bottom-transition, 0.3s ease);
-    }
-  }
+.radio-label .inner-label:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.25);
+  width: 30px;
+  transition: border-bottom 0.5s ease;
+}
 
-  input:focus ~ .inner-label:before {
-    border-bottom: var(--border-bottom-input-focus, 2px solid #000);
-  }
+.radio-label input:focus ~ .inner-label:before {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.75);
+}
 
-  input:checked ~ .inner-label:after {
-    content: '\2713';
-    color: #fff;
-    position: absolute;
-    font-size: 0.75rem; 
-    left: 0.75rem; 
-    top: 0.0625rem; 
-  }
+.radio-label input:checked ~ .inner-label:after {
+  content: '\2713';
+  color: #fff;
+  position: absolute;
+  font-size: 12px;
+  left: 12px;
+  top: 1px;
 }
