@@ -188,75 +188,44 @@ nav a:hover {
 
 
 
-.radio-group {
-  margin: auto;
-  display: flex;
+/* Hide the default radio button */
+input[type="radio"] {
+  display: none; /* Hides the default radio button */
 }
 
-@media (max-width: 768px) {
-  .radio-group {
-    flex-direction: column;
-    align-items: flex-start;
-    text-align: left;
-  }
-}
-
-.radio-group-label {
-  display: block;
-  width: 100%;
-  margin: 10px 0;
-}
-
+/* Style the label */
 .radio-label {
   position: relative;
   display: inline-block;
-  margin: 10px;
+  padding-left: 40px;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 24px;
 }
 
-
-.radio-label input {
-  opacity: 0;
+/* Always show a dotted line underneath the label */
+.radio-label .inner-label:after {
+  content: '';
   position: absolute;
+  bottom: -4px; /* Place it below the label */
+  left: 0;
+  width: 100%;
+  border-bottom: 2px dotted #1976D2; /* Dotted line */
 }
 
+/* When the radio button is checked, show the checkmark */
+input[type="radio"]:checked + .inner-label:before {
+  content: '\2713'; /* Unicode for check mark */
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #1976D2; /* Checkmark color */
+  font-size: 20px;
+}
+
+/* Normal label style */
 .radio-label .inner-label {
   position: relative;
-  display: inline-block;
-  padding-left: 40px;
-}
-
-.radio-label .inner-label:before {
-  content: '';
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  border-bottom: 1px dashed rgba(255, 255, 255, 0.25);
-  width: 30px;
-  transition: border-bottom 0.5s ease;
-}
-
-
-.inner-label {
-  position: relative;
-  display: inline-block;
-  padding-left: 40px;
-}
-
-.inner-label:before {
-  content: '';
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  border-bottom: 1px dashed rgba(255, 255, 255, 0.25);
-  width: 30px;
-  transition: border-bottom 0.5s ease;
-}
-
-input:checked ~ .inner-label:after {
-  content: '\2713';
-  color: #fff;
-  position: absolute;
-  font-size: 12px;
-  left: 12px;
-  top: 1px;
+  padding-left: 30px;
+  font-size: 16px;
 }
