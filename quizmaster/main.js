@@ -10,9 +10,11 @@ document.addEventListener("DOMContentLoaded", async () => {
     
 
 
+
 function generateQuiz() {
     quizContainer.innerHTML = questions.map((q, index) => `
     <div class="quiz-grid">    
+    <div class="quiz-card2">
     <div class="question">${q.question}</div>
         ${q.options.map((option, optionIndex) => `
             <div class="quiz-card">
@@ -22,6 +24,7 @@ function generateQuiz() {
                     <span class="form__radio-button"></span>
                     <span>${option}</span>
                 </label>
+            </div>
             </div>
             </div>
             </div>
