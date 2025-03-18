@@ -15,25 +15,27 @@ Fonts are separated by a | */
   --paragraph-font: Verdana, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: var(--primary-color); /* headlines on a white background */
+  --headline-color-on-white: var(
+    --primary-color
+  ); /* headlines on a white background */
   --headline-color-on-color: white; /* headlines on a colored background */
-  --paragraph-color-on-white: var(--primary-color); /* paragraph text on a white background */
+  --paragraph-color-on-white: var(
+    --primary-color
+  ); /* paragraph text on a white background */
   --paragraph-color-on-color: white; /* paragraph text on a colored background */
   --paragraph-background-color: var(--primary-color);
   --nav-link-color: var(--primary-color);
   --nav-background-color: var(--secondary-color);
   --nav-hover-link-color: white;
   --nav-hover-background-color: var(--primary-color);
+
 }
 
-/* Global Reset */
-*, *::before, *::after {
-  box-sizing: border-box;
-}
+/*  Look around below...but DON'T CHANGE ANYTHING! */
 
 body {
   font-family: 'Lato', sans-serif;
-  background: linear-gradient(135deg, #f6d365, #fda085);
+  background: linear-gradient(135deg, var(--accent2-color), white);
   transition: background-color 0.3s ease;
   margin: 0 auto;
   padding: 4em;
@@ -41,39 +43,294 @@ body {
   font-size: 18px;
 }
 
-/* Header Animation */
-header {
-  padding: 3em 0;
-  text-align: center;
-  color: var(--paragraph-color-on-color);
-  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
-  animation: fadeIn 2s ease-out;
-}
-
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+img {
+  display: block;
+  margin: 0 auto;
 }
 
 /* Fancy Typography */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--heading-font);
   color: var(--headline-color-on-white);
-}
-
-h1 {
   font-size: 50px;
 }
+
+
 
 h2 {
   text-align: center;
 }
 
-/* Paragraph Styling */
+
+hr {
+  height: 3px;
+  margin: 35px 0;
+  background: var(--accent1-color);
+}
+header {
+  padding: 1em;
+  text-align: center;
+  color: var(--paragraph-color-on-color);
+  background-color: var(--paragraph-background-color);
+}
+header > h1,
+header > h2 {
+  color: var(--headline-color-on-color);
+}
+
 p {
   font-family: var(--paragraph-font);
-  color: var(--paragraph-color-on-white);
+  color: var(--paragraph-color);
   padding: 1em;
+}
+.colors {
+  width: 100%;
+  min-width: 350px;
+  margin: 30px auto;
+  text-align: center;
+}
+.colors th {
+  background-color: #999;
+}
+.colors td {
+  width: 25%;
+  height: 3em;
+}
+
+.primary {
+  background-color: var(--primary-color);
+}
+.secondary {
+  background-color: var(--secondary-color);
+}
+.accent1 {
+  background-color: var(--accent1-color);
+}
+.accent2 {
+  background-color: var(--accent2-color);
+}
+
+p.colored {
+  background-color: var(--paragraph-background-color);
+  color: var(--paragraph-color-on-color);
+}
+
+nav {
+  background-color: var(--nav-background-color);
+  line-height: 3em;
+  text-align: center;
+  font-size: 1.2em;
+}
+nav {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  background-color: var(--nav-background-color);
+  line-height: 3em;
+  font-size: 1.2em;
+}
+nav a {
+  padding: 1em;
+  min-width: 120px;
+  text-decoration: none;
+  padding: 10px;
+  transition: all 0.3s ease;
+}
+nav a:link,
+nav a:visited {
+  color: var(--nav-link-color);
+}
+nav a:hover {
+  color: var(--nav-hover-link-color);
+  background-color: var(--nav-hover-background-color);
+}
+
+
+
+
+.sitemap {
+  display: grid;
+  justify-content: center;
+
+  grid-template-columns: repeat(6, 15%);
+  grid-template-rows: 3em 1.5em 1.5em 3em;
+  grid-template-areas:
+    ". . home home . ."
+    ". . . top . ."
+    ". left left right right ."
+    "page2 page2 . . page3 page3";
+}
+.sitemap > div {
+  text-align: center;
+}
+.sm-home {
+  grid-area: home;
+  background-color: #ccc;
+  line-height: 3em;
+}
+.sm-page2 {
+  grid-area: page2;
+  background-color: #ccc;
+  line-height: 3em;
+}
+.sm-page3 {
+  grid-area: page3;
+  background-color: #ccc;
+  line-height: 3em;
+}
+
+.top {
+  grid-area: top;
+  border-left: 1px solid;
+}
+
+.left {
+  grid-area: left;
+  border-top: 1px solid;
+  border-left: 1px solid;
+}
+
+.right {
+  grid-area: right;
+  border-top: 1px solid;
+  border-right: 1px solid;
+}
+
+
+/* Fancy Glow Effect for Buttons */
+
+button {
+  transform: scale(1.05);
+  width: 15em;
+  height: 3em;
+}
+
+button:hover {
+  background: linear-gradient(45deg, #FF6F61, #D50000);
+  transform: scale(1.05);
+  width: 15em;
+  height: 3em;
+}
+
+
+/*----------------------*/
+
+.form {
+  padding: 2rem;
+}
+
+.form__radio-input {
+  /*display: none;*/
+}
+
+.form__radio-label {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 1rem;
+  font-size: 1.5rem;
+  cursor: pointer; 
+  padding-left: 2rem;
+}
+
+.form__radio-button {
+  height: 1.5rem;
+  width: 1.5rem;
+  border: 5px solid var(--accent2-color);
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  transform: translateY(-2px);
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out; 
+}
+
+
+.form__radio-input:checked + .form__radio-label .form__radio-button {
+  background-color: var(--accent2-color); 
+}
+
+
+.form__radio-button::after {
+  display: block;
+  height: 1.3rem;
+  width: 1.3rem;
+  position: absolute;
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  background-color: transparent;
+  transform: translate(-50%, -50%);
+  transition: opacity 0.3s ease-in-out; 
+  opacity: 0; 
+  content: "\1F600"; 
+  color: green; 
+  font-size: 16px;
+  text-align: center;
+  line-height: 1.5rem; 
+  opacity: 1; 
+}
+
+.form__radio-input:checked + .form__radio-label .form__radio-button::after {
+  content: "\2713"; 
+  color: white; 
+  font-size: 16px;
+  text-align: center;
+  line-height: 1.5rem; 
+  opacity: 1; 
+}
+
+.quiz-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.quiz-card {
+  background: var(--accent1-color);
+  padding: 20px;
+  border-radius: 40px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px;
+}
+
+
+.quiz-card2 {
+  background: var(--accent2-color);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px;
+}
+
+.question {
+  font-size: 2.7em;
+  font-weight: bold;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.option-label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
 }
 
 /* Fancy Header */
@@ -88,168 +345,13 @@ hr {
   background: var(--accent1-color);
 }
 
-/* Navigation Styling */
-nav {
-  list-style-type: none;
-  display: flex;
-  justify-content: center;
-  background-color: var(--nav-background-color);
-  line-height: 3em;
-  font-size: 1.2em;
-}
-
-nav a {
-  padding: 1em;
-  min-width: 120px;
-  text-decoration: none;
-  color: var(--nav-link-color);
-  transition: all 0.3s ease;
-}
-
-nav a:hover {
-  color: var(--nav-hover-link-color);
-  background-color: var(--nav-hover-background-color);
-  transform: scale(1.1);
-}
-
-/* Fancy Background on Sitemap */
-.sitemap > div {
-  transition: background-color 0.3s ease;
-}
-
-.sitemap > div:hover {
-  background-color: var(--accent1-color);
-}
-
-/* Layout and Grid */
-.sitemap {
-  display: grid;
-  justify-content: center;
-  grid-template-columns: repeat(6, 15%);
-  grid-template-rows: 3em 1.5em 1.5em 3em;
-  grid-template-areas:
-    ". . home home . ."
-    ". . . top . ."
-    ". left left right right ."
-    "page2 page2 . . page3 page3";
-}
-
-.sitemap > div {
-  text-align: center;
-}
-
-.sm-home {
-  grid-area: home;
-  background-color: #ccc;
-  line-height: 3em;
-}
-
-.sm-page2 {
-  grid-area: page2;
-  background-color: #ccc;
-  line-height: 3em;
-}
-
-.sm-page3 {
-  grid-area: page3;
-  background-color: #ccc;
-  line-height: 3em;
-}
-
-/* Smooth Background Transitions for Sections */
-.quiz-card, .quiz-card2 {
-  background: linear-gradient(135deg, #d6a2e8, #ff9a8b);
-  padding: 30px;
-  border-radius: 20px;
-  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.quiz-card2 {
-  background: var(--accent2-color);
-}
-
 /* Hover Effect on Quiz Cards */
 .quiz-card:hover, .quiz-card2:hover {
   transform: scale(1.05);
   box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.3);
 }
 
-/* Form Radio Button Styles */
-.form__radio-button {
-  border-radius: 50%;
-  border: 5px solid var(--accent2-color);
-  transition: transform 0.3s ease, background-color 0.3s ease;
-}
-
-.form__radio-button:hover {
-  background-color: var(--accent2-color);
-  transform: translateY(-4px);
-}
-
-.form__radio-input:checked + .form__radio-label .form__radio-button {
-  background-color: var(--accent2-color);
-  transform: scale(1.1);
-}
-
-.form__radio-button::after {
-  content: "\1F600";
-  display: block;
-  height: 1.3rem;
-  width: 1.3rem;
-  position: absolute;
-  border-radius: 50%;
-  top: 50%;
-  left: 50%;
-  background-color: transparent;
-  transform: translate(-50%, -50%);
-  opacity: 1;
-  font-size: 16px;
-  text-align: center;
-  line-height: 1.5rem;
-}
-
-.form__radio-input:checked + .form__radio-label .form__radio-button::after {
-  content: "\2713";
-  color: white;
-  font-size: 16px;
-  text-align: center;
-  line-height: 1.5rem;
-  opacity: 1;
-}
-
-/* Fancy Borders */
-hr {
-  height: 3px;
-  margin: 35px 0;
-  background: var(--accent1-color);
-}
-
-.sitemap > div {
-  transition: background-color 0.3s ease;
-}
-
-.sitemap > div:hover {
-  background-color: var(--accent1-color);
-}
-
 /* Adding Glow Effect to Headers */
 h1:hover, h2:hover {
   text-shadow: 0px 0px 20px var(--secondary-color), 0px 0px 30px var(--secondary-color);
-}
-
-/* Fancy Glow Effect for Buttons */
-button:hover {
-  background: linear-gradient(45deg, #FF6F61, #D50000);
-  transform: scale(1.05);
-}
-
-/* Adding Custom Cursor */
-body {
-  cursor: url('https://cdn-icons-png.flaticon.com/512/727/727703.png'), auto;
-}
-
-/* Change cursor on hover for buttons */
-button:hover {
-  cursor: pointer;
 }
