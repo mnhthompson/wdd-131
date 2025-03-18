@@ -8,29 +8,26 @@ document.addEventListener("DOMContentLoaded", async () => {
     const submitButton = document.getElementById("submit");
     const questions = await fetchQuestions();
     
-function generateQuiz(questions) {
-    const quizContainer = document.getElementById('quiz'); // Ensure it's defined
 
-    quizContainer.innerHTML = `
-        <div class="quiz-grid">
-            ${questions.map((q, index) => `
-                <div class="quiz-card">
-                    <div class="question">${q.question}</div>
-                    <div class="options">
-                        ${q.options.map((option, optionIndex) => `
-                            <label class="option-label">
-                                <input type="radio" id="radio${index}_${optionIndex}" class="form__radio-input" name="question${index}" value="${option}" required>
-                                <span class="form__radio-button"></span>
-                                <span>${option}</span>
-                            </label>
-                        `).join('')}
-                    </div>
-                </div>
-            `).join('')}
-        </div>
-    `;
+
+function generateQuiz() {
+    quizContainer.innerHTML = questions.map((q, index) => `
+    <div class="quiz-grid">    
+    <div class="question">${q.question}</div>
+        ${q.options.map((option, optionIndex) => `
+            <div class="quiz-card">
+            <div class="form__radio-group">
+                <label for="radio${index}_${optionIndex}">
+                    <input type="radio" id="radio${index}_${optionIndex}" class="form__radio-input" name="question${index}" value="${option}">
+                    <span class="form__radio-button"></span>
+                    <span>${option}</span>
+                </label>
+            </div>
+            </div>
+            </div>
+        `).join('')}
+    `).join('');
 }
-
     
     function showResults() {
         const answers = questions.map((q, index) => {
