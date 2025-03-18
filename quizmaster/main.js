@@ -15,7 +15,8 @@ document.addEventListener("DOMContentLoaded", async () => {
                 <div class="form__radio-group">
                 <label for="form__radio-label">
                     <input type="radio" class="form__radio-input" name="question${index}" value="${option}">
-                    <span class='form__radio-button'>${option}</span>
+                    <span class='form__radio-button'></span>
+                    <span>${option}</span>
                 </label>
                 </div>
             `).join('')}
