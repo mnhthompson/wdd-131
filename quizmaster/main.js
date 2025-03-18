@@ -13,8 +13,8 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 function generateQuiz() {
     quizContainer.innerHTML = questions.map((q, index) => `
-    <div class="quiz-grid">    
-    <section class="quiz-card2">
+    <section class="quiz-grid">    
+    <article class="quiz-card2">
     <div class="question">${q.question}</div>
         ${q.options.map((option, optionIndex) => `
             <div class="quiz-card">
@@ -26,8 +26,8 @@ function generateQuiz() {
                 </label>
             </div>
             </div>
+            </article>
             </section>
-            </div>
         `).join('')}
     `).join('');
 }
