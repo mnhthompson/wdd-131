@@ -191,7 +191,7 @@ nav a:hover {
 }
 
 .form__radio-input {
-  display: none;
+  /*display: none;*/
 }
 
 .form__radio-label {
