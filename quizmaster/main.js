@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             ${q.options.map(option => `
                 <label for="radio-label">
                     <input type="radio" id="radio" name="question${index}" value="${option}">
-                    ${option}
+                    <span class='inner-label'>${option}</span>
                 </label>
             `).join('')}
         `).join('');
