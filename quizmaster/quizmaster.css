@@ -35,7 +35,7 @@ Fonts are separated by a | */
 
 body {
   font-family: 'Lato', sans-serif;
-  background: linear-gradient(135deg, var(--accent2-color), white);
+  background: linear-gradient(135deg, var(--accent1-color), white);
   transition: background-color 0.3s ease;
   margin: 0 auto;
   padding: 4em;
