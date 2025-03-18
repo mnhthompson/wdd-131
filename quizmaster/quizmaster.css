@@ -216,6 +216,7 @@ nav a:hover {
   position: relative;
   transform: translateY(-2px);
   z-index: 1;
+  cursor: pointer;
 }
 
 .form__radio-button::after {
