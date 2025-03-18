@@ -81,7 +81,7 @@ header > h2 {
 p {
   font-family: var(--paragraph-font);
   color: var(--accent2-color);
-  
+  font-size: 18px;
   padding: 1em;
 }
 .colors {
