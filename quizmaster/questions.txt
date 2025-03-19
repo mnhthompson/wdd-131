@@ -1,244 +1,42 @@
-What is 31 + 13?|30,44,44|44
+What is 31 + 13?|44,30,44|44
 What is 26 + 17?|25,43,43|43
 What is 26 squared?|25,40,676|676
 Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
 What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
 What is the capital of France?|Berlin,Madrid,Paris|Paris
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
 What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-What is 22 squared?|21,29,484|484
-What is 19 squared?|18,20,361|361
 What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
 What is 17 squared?|16,25,289|289
 In what year did World War II end?|1943,1945,1950|1945
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-What is 45 squared?|44,64,2025|2025
-In what year did World War II end?|1943,1945,1950|1945
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-In what year did World War II end?|1943,1945,1950|1945
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-How many continents are there on Earth?|5,6,7|7
-What is 22 + 12?|21,34,34|34
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-What is 67 * 17?|66,84,1139|1139
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-What is 89 squared?|88,94,7921|7921
-In what year did World War II end?|1943,1945,1950|1945
-What is 82 + 14?|81,96,96|96
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-How many continents are there on Earth?|5,6,7|7
-How many continents are there on Earth?|5,6,7|7
-What is 76 * 3?|75,79,228|228
-What is 8 + 19?|7,27,27|27
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What is 37 squared?|36,52,1369|1369
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-What is 85 + 11?|84,96,96|96
-What is 37 + 18?|36,55,55|55
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-How many continents are there on Earth?|5,6,7|7
-How many continents are there on Earth?|5,6,7|7
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-What is 83 + 13?|82,96,96|96
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-What is 79 + 15?|78,94,94|94
-What is 82 * 17?|81,99,1394|1394
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-In what year did World War II end?|1943,1945,1950|1945
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What is 46 squared?|45,48,2116|2116
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-In what year did World War II end?|1943,1945,1950|1945
-In what year did World War II end?|1943,1945,1950|1945
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-How many continents are there on Earth?|5,6,7|7
-What is 46 squared?|45,57,2116|2116
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-How many continents are there on Earth?|5,6,7|7
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-How many continents are there on Earth?|5,6,7|7
-In what year did World War II end?|1943,1945,1950|1945
 What is the chemical symbol for water?|H2O,CO2,O2|H2O
 How many continents are there on Earth?|5,6,7|7
-What is 56 + 7?|55,63,63|63
-What is 65 squared?|64,76,4225|4225
-What is 33 * 11?|32,44,363|363
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
 Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
 What is 74 squared?|73,76,5476|5476
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-What is 13 * 2?|12,15,26|26
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What is 45 + 20?|44,65,65|65
-What is 66 squared?|65,76,4356|4356
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-What is 44 * 20?|43,64,880|880
-What is 44 + 5?|43,49,49|49
-What is 86 + 2?|85,88,88|88
-What is 46 squared?|45,47,2116|2116
+What is 58 * 16?|57,74,928|928
+What is 63 squared?|62,80,3969|3969
+What is 56 squared?|55,75,3136|3136
+What is 2 squared?|1,15,4|4
+What is 48 squared?|47,60,2304|2304
+What is 56 squared?|55,75,3136|3136
+What is 7 squared?|6,21,49|49
+What is 31 squared?|30,32,961|961
+What is 29 squared?|28,36,841|841
+What is 57 squared?|56,64,3249|3249
 What is 71 squared?|70,83,5041|5041
 What is 76 squared?|75,94,5776|5776
 What is 77 squared?|76,84,5929|5929
-In what year did World War II end?|1943,1945,1950|1945
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What is 58 * 16?|57,74,928|928
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-In what year did World War II end?|1943,1945,1950|1945
-What is 63 squared?|62,80,3969|3969
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What is 56 squared?|55,76,3136|3136
-How many continents are there on Earth?|5,6,7|7
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-What is 2 squared?|1,15,4|4
-What is 24 + 12?|23,36,36|36
-What is 48 squared?|47,60,2304|2304
-How many continents are there on Earth?|5,6,7|7
-What is 75 * 7?|74,82,525|525
-How many continents are there on Earth?|5,6,7|7
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-In what year did World War II end?|1943,1945,1950|1945
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-What is 21 * 6?|20,27,126|126
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-What is 82 squared?|81,96,6724|6724
-How many continents are there on Earth?|5,6,7|7
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-How many continents are there on Earth?|5,6,7|7
-What is 43 + 17?|42,60,60|60
-How many continents are there on Earth?|5,6,7|7
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-How many continents are there on Earth?|5,6,7|7
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-What is 12 * 1?|11,13,12|12
-What is 89 squared?|88,103,7921|7921
-What is 23 + 18?|22,41,41|41
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What is 84 squared?|83,102,7056|7056
 What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
 What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What is 10 * 6?|9,16,60|60
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-What is 57 squared?|56,64,3249|3249
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-What is 84 * 1?|83,85,84|84
-How many continents are there on Earth?|5,6,7|7
 Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What is 84 + 13?|83,97,97|97
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-In what year did World War II end?|1943,1945,1950|1945
-How many continents are there on Earth?|5,6,7|7
-What is 85 * 6?|84,91,510|510
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-What is 13 + 19?|12,32,32|32
-How many continents are there on Earth?|5,6,7|7
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What is 59 * 3?|58,62,177|177
 What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What is 7 squared?|6,21,49|49
 What is 56 squared?|55,75,3136|3136
-In what year did World War II end?|1943,1945,1950|1945
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-How many continents are there on Earth?|5,6,7|7
-In what year did World War II end?|1943,1945,1950|1945
-What is 51 * 11?|50,62,561|561
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What is 90 + 13?|89,103,103|103
-What is 31 squared?|30,32,961|961
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-What is 29 squared?|28,36,841|841
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-In what year did World War II end?|1943,1945,1950|1945
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
-What is the capital of France?|Berlin,Madrid,Paris|Paris
-Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
-Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
 What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
 How many continents are there on Earth?|5,6,7|7
-In what year did World War II end?|1943,1945,1950|1945
 What is 50 * 3?|49,53,150|150
 What is the chemical symbol for water?|H2O,CO2,O2|H2O
 Which ancient civilization built the pyramids?|Romans,Greeks,Egyptians|Egyptians
 How many continents are there on Earth?|5,6,7|7
-What is the chemical symbol for water?|H2O,CO2,O2|H2O
-What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
-What is the capital of France?|Berlin,Madrid,Paris|Paris
 What is 17 * 1?|16,18,17|17
 What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
 What gas do plants absorb from the atmosphere?|Oxygen,Carbon Dioxide,Nitrogen|Carbon Dioxide
@@ -247,4 +45,303 @@ What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
 What is the chemical symbol for water?|H2O,CO2,O2|H2O
 What planet is known as the Red Planet?|Mercury,Venus,Mars|Mars
 How many continents are there on Earth?|5,6,7|7
-What is the largest ocean on Earth?|Atlantic,Indian,Pacific|Pacific
+What is 31 + 13?|324,30,44|44
+What is 24 + 15?|39,38,42|39
+What is 42 - 17?|21,23,25|25
+What is 56 + 21?|77,80,75|77
+What is 48 + 12?|60,55,62|60
+What is 85 - 39?|46,50,55|46
+What is 90 + 15?|105,110,120|105
+What is 63 + 17?|79,81,70|80
+What is 58 - 23?|31,35,37|35
+What is 72 + 18?|91,93,89|90
+What is 67 + 9?|75,76,77|76
+What is 53 + 16?|67,70,68|69
+What is 80 - 25?|55,60,65|55
+What is 92 - 21?|69,72,74|71
+What is 13 * 5?|55,50,65|65
+What is 36 * 3?|108,105,110|108
+What is 17 * 7?|116,115,119|119
+What is 9 * 9?|78,81,88|81
+What is 100 / 5?|22,20,25|20
+What is 81 / 9?|9,10,11|9
+What is 56 / 7?|9,7,8|8
+What is 72 / 8?|9,8,7|9
+What is 120 / 6?|18,20,22|20
+What is 44 * 2?|88,85,90|88
+What is 55 * 3?|155,160,165|165
+What is 8 * 12?|88,96,80|96
+What is 72 + 8?|80,82,85|80
+What is 63 - 28?|33,35,31|35
+What is 98 - 24?|74,75,78|74
+What is 112 - 36?|75,76,77|76
+What is 9 * 8?|72,70,76|72
+What is 15 * 6?|90,85,95|90
+What is 25 * 4?|100,95,110|100
+What is 70 - 22?|50,48,52|48
+What is 34 * 2?|68,70,72|68
+What is 88 / 4?|21,22,23|22
+What is 54 / 9?|7,5,6|6
+What is 128 / 8?|16,18,14|16
+What is 72 - 44?|28,30,32|28
+What is 60 - 24?|38,36,40|36
+What is 17 * 6?|101,103,102|102
+What is 39 + 42?|81,80,79|81
+What is 55 + 30?|85,90,91|85
+What is 67 + 18?|85,83,84|85
+What is 45 + 21?|66,63,67|66
+What is 89 - 54?|35,36,32|35
+What is 99 - 39?|61,60,62|60
+What is 22 + 19?|40,41,42|41
+What is 30 + 45?|80,75,70|75
+What is 29 + 28?|57,60,59|57
+What is 77 - 19?|56,58,59|58
+What is 62 - 17?|44,46,47|45
+What is 93 - 47?|45,48,46|46
+What is 43 * 5?|205,210,200|215
+What is 15 * 10?|145,150,160|150
+What is 19 * 5?|95,100,105|95
+What is 14 * 8?|112,108,118|112
+What is 6 * 9?|53,54,52|54
+What is 18 * 5?|92,95,90|90
+What is 120 / 10?|12,13,14|12
+What is 121 / 11?|11,12,13|11
+What is 14 + 20?|34,30,32|34
+What is 100 + 15?|118,116,110|115
+What is 82 + 17?|98,99,100|99
+What is 93 + 9?|101,102,104|102
+What is 101 + 50?|151,150,149|151
+What is 88 + 6?|91,92,94|94
+What is 65 + 22?|86,87,88|87
+What is 112 + 5?|116,117,118|117
+What is 120 - 50?|65,70,60|70
+What is 88 - 33?|56,57,54|55
+What is 112 - 18?|92,95,93|94
+What is 56 + 34?|89,91,85|90
+What is 21 + 24?|46,45,47|45
+What is 27 + 36?|62,63,64|63
+What is 14 + 19?|34,31,33|33
+What is 29 + 16?|46,45,44|45
+What is 88 + 22?|106,108,110|110
+What is 45 + 35?|80,81,85|80
+What is 62 + 23?|89,90,91|89
+What is 39 + 33?|70,72,69|72
+What is 25 + 29?|55,58,53|54
+What is 16 + 45?|62,63,60|61
+What is 29 + 45?|73,74,72|74
+What is 21 + 12?|32,33,34|33
+What is 49 + 31?|81,79,80|80
+What is 52 + 23?|73,74,75|75
+What is 63 + 18?|83,82,80|81
+What is 77 + 23?|101,100,102|100
+What is 62 + 15?|77,76,78|77
+What is 95 + 10?|103,105,110|105
+What is 29 + 12?|40,41,43|41
+What is 49 + 22?|71,72,73|71
+What is 89 + 9?|98,100,101|98
+What is 55 + 14?|68,70,71|69
+What is 72 + 5?|77,74,75|77
+What is 26 + 21?|47,45,48|47
+What is 18 + 41?|59,60,61|59
+What is 35 + 28?|65,63,68|63
+What is 16 + 16?|32,30,34|32
+What is the chemical symbol for water?|H2O,CO2,O2|H2O
+What is the atomic number of Carbon?|6,5,8|6
+What is the molecular formula for methane?|CH4,C2H6,CO2|CH4
+What element has the chemical symbol Na?|Sodium,Potassium,Magnesium|Sodium
+What is the pH of pure water?|7,8,6|7
+What is the atomic number of Hydrogen?|1,2,3|1
+What is the chemical formula for sulfuric acid?|H2SO4,HCl,NaOH|H2SO4
+What is the symbol for the element Oxygen?|O,N,C|O
+What is the chemical formula for carbon dioxide?|CO2,O2,N2|CO2
+What is the atomic number of Sodium?|11,12,10|11
+What is the most abundant element in the Earth's crust?|Oxygen,Iron,Silicon|Oxygen
+What is the chemical formula for ammonia?|NH3,CO2,H2O|NH3
+What is the atomic number of Gold?|79,80,78|79
+What element has the symbol Cl?|Chlorine,Carbon,Calcium|Chlorine
+What is the chemical formula for hydrochloric acid?|HCl,H2SO4,HNO3|HCl
+What is the atomic number of Nitrogen?|7,8,6|7
+What is the main gas in the Earth's atmosphere?|Oxygen,Nitrogen,Carbon Dioxide|Nitrogen
+What is the formula for the compound water?|H2O,CO2,H2O2|H2O
+What is the atomic number of Iron?|26,25,24|26
+What is the chemical symbol for potassium?|K,Na,Li|K
+What is the chemical formula for table salt?|NaCl,H2O,NaOH|NaCl
+What is the molecular formula for glucose?|C6H12O6,C2H6O2,C6H12O5|C6H12O6
+What is the atomic number of Helium?|1,2,3|2
+What is the chemical formula for acetic acid?|C2H4O2,CH3COOH,C3H6O|CH3COOH
+What element has the chemical symbol Fe?|Iron,Nickel,Zinc|Iron
+What is the chemical formula for hydrogen peroxide?|H2O2,H2O,O2|H2O2
+What is the atomic number of Copper?|29,28,30|29
+What is the most common isotope of Carbon?|Carbon-12,Carbon-13,Carbon-14|Carbon-12
+What is the chemical formula for nitric acid?|HNO3,H2SO4,HCl|HNO3
+What is the atomic number of Calcium?|20,19,18|20
+What is the chemical symbol for Calcium?|Ca,K,Na|Ca
+What is the atomic number of Silicon?|14,15,16|14
+What is the chemical formula for oxygen gas?|O2,O3,H2O|O2
+What is the chemical formula for ethanol?|C2H5OH,C3H7OH,C2H6O|C2H5OH
+What is the atomic number of Zinc?|30,31,32|30
+What is the molecular formula for propane?|C3H8,C4H10,C5H12|C3H8
+What is the atomic number of Mercury?|80,79,81|80
+What is the most common gas in the Earth's atmosphere?|Oxygen,Nitrogen,Carbon Dioxide|Nitrogen
+What element has the symbol Ag?|Silver,Aluminum,Iron|Silver
+What is the formula for sulfuric acid?|H2SO4,HCl,NaOH|H2SO4
+What is the atomic number of Lead?|82,83,81|82
+What is the chemical formula for calcium carbonate?|CaCO3,NaCl,KOH|CaCO3
+What is the atomic number of Phosphorus?|15,16,14|15
+What is the chemical symbol for Nitrogen?|N,O,C|N
+What is the formula for potassium hydroxide?|KOH,NaOH,LiOH|KOH
+What element has the symbol Al?|Aluminum,Argon,Americium|Aluminum
+What is the chemical formula for methanol?|CH3OH,C2H5OH,C3H7OH|CH3OH
+What is the atomic number of Neon?|10,11,12|10
+What is the chemical formula for potassium chloride?|KCl,NaCl,LiCl|KCl
+What is the atomic number of Chlorine?|17,16,18|17
+What is the chemical formula for sodium hydroxide?|NaOH,KOH,CaOH|NaOH
+What is the atomic number of Argon?|18,19,20|18
+What is the chemical symbol for Neon?|Ne,He,Ar|Ne
+What is the formula for potassium nitrate?|KNO3,NaNO3,CaNO3|KNO3
+What element has the symbol P?|Phosphorus,Platinum,Potassium|Phosphorus
+What is the molecular formula for ethylene?|C2H4,C3H6,C4H8|C2H4
+What is the atomic number of Nitrogen?|7,8,9|7
+What is the chemical formula for baking soda?|NaHCO3,K2CO3,CaCO3|NaHCO3
+What is the atomic number of Sodium?|11,12,13|11
+What is the chemical formula for magnesium chloride?|MgCl2,CaCl2,KCl|MgCl2
+What is the atomic number of Potassium?|19,20,18|19
+What is the chemical symbol for Silver?|Ag,Au,Si|Ag
+What element has the symbol C?|Carbon,Calcium,Chlorine|Carbon
+What is the chemical formula for sulfur dioxide?|SO2,SO3,CO2|SO2
+What is the molecular formula for butane?|C4H10,C3H8,C5H12|C4H10
+What is the atomic number of Potassium?|19,20,21|19
+What is the chemical symbol for Fluorine?|F,Cl,Br|F
+What is the atomic number of Platinum?|78,77,76|78
+What is the chemical formula for hydrogen chloride?|HCl,H2SO4,NaCl|HCl
+What is the molecular formula for acetone?|C3H6O,C2H5OH,C4H8O|C3H6O
+What is the chemical formula for phosphoric acid?|H3PO4,Na3PO4,H2SO4|H3PO4
+What is the atomic number of Uranium?|92,93,91|92
+What is the symbol for the element Lithium?|Li,Na,K|Li
+What is the molecular formula for acetonitrile?|CH3CN,C2H5OH,C3H6|CH3CN
+What is the atomic number of Krypton?|36,35,37|36
+What is the chemical formula for aluminum sulfate?|Al2(SO4)3,AlCl3,Na2SO4|Al2(SO4)3
+What element has the symbol Rn?|Radon,Rhodium,Rhenium|Radon
+What is the chemical symbol for Mercury?|Hg,Ag,Au|Hg
+What is the atomic number of Titanium?|22,23,24|22
+What is the chemical formula for nitric oxide?|NO,CO,NO2|NO
+What is the molecular formula for styrene?|C8H8,C6H6,C9H10|C8H8
+What is the atomic number of Zinc?|30,31,32|30
+What is the chemical formula for calcium sulfate?|CaSO4,NaCl,K2SO4|CaSO4
+What element has the symbol Se?|Selenium,Silicon,Silver|Selenium
+What is the molecular formula for propene?|C3H6,C4H8,C5H10|C3H6
+What is the chemical symbol for Iodine?|I,Cl,F|I
+What is the atomic number of Boron?|5,6,7|5
+What is the chemical formula for calcium hydroxide?|Ca(OH)2,NaOH,KOH|Ca(OH)2
+What is the molecular formula for 1-butanol?|C4H10O,C5H12O,C3H8O|C4H10O
+What is the chemical formula for acetylene?|C2H2,C2H4,C3H6|C2H2
+What is the atomic number of Chromium?|24,23,25|24
+What is the chemical symbol for Xenon?|Xe,Ne,Ar|Xe
+What is the molecular formula for styrene?|C8H8,C9H10,C7H8|C8H8
+What is the atomic number of Manganese?|25,26,27|25
+What element has the symbol Ti?|Titanium,Tungsten,Thallium|Titanium
+What is the chemical symbol for Helium?|He,H,O|He
+What is the chemical formula for sodium bicarbonate?|NaHCO3,NaCl,CaCO3|NaHCO3
+What is the atomic number of Argon?|18,17,19|18
+What is the chemical formula for lead(II) chloride?|PbCl2,NaCl,KCl|PbCl2
+What is the molecular formula for formic acid?|HCOOH,CH3COOH,C2H4O2|HCOOH
+Who was the first President of the United States?|George Washington,Abraham Lincoln,Thomas Jefferson|George Washington
+In which year did the Titanic sink?|1912,1905,1920|1912
+Who discovered America in 1492?|Christopher Columbus,Marco Polo,Leif Erikson|Christopher Columbus
+What year did World War I begin?|1914,1912,1910|1914
+Who was the first Emperor of China?|Qin Shi Huang,Han Wudi,Kublai Khan|Qin Shi Huang
+What was the name of the ship that brought the Pilgrims to America?|Mayflower,Endeavour,Victory|Mayflower
+Who was the first woman to fly solo across the Atlantic Ocean?|Amelia Earhart,Harriet Quimby,Clara Barton|Amelia Earhart
+Who was the leader of Nazi Germany during World War II?|Adolf Hitler,Benito Mussolini,Joseph Stalin|Adolf Hitler
+What year did the American Civil War end?|1865,1870,1855|1865
+Who was the first king of the United Kingdom of Great Britain?|James I,George III,Henry VIII|James I
+What ancient civilization built the pyramids in Egypt?|Egyptians,Romans,Greeks|Egyptians
+Who was the famous queen of ancient Egypt?|Cleopatra,Nefertiti,Hatshepsut|Cleopatra
+In which year did the Berlin Wall fall?|1989,1991,1985|1989
+Who was the first man to walk on the moon?|Neil Armstrong,Yuri Gagarin,John Glenn|Neil Armstrong
+In which year did the United States declare independence?|1776,1781,1791|1776
+Who was the leader of the Soviet Union during the Cuban Missile Crisis?|Nikita Khrushchev,Vladimir Lenin,Joseph Stalin|Nikita Khrushchev
+What was the name of the ship that transported slaves to the American colonies in the 17th century?|The Zong,The Mayflower,The Good Ship Jesus|The Zong
+Who invented the telephone?|Alexander Graham Bell,Thomas Edison,Nikola Tesla|Alexander Graham Bell
+Who wrote the Declaration of Independence?|Thomas Jefferson,George Washington,Benjamin Franklin|Thomas Jefferson
+In which year did the French Revolution begin?|1789,1790,1776|1789
+Who was the leader of the French Revolution?|Maximilien Robespierre,King Louis XVI,Jean-Paul Marat|Maximilien Robespierre
+What year did the Soviet Union collapse?|1991,1989,1985|1991
+What was the first civilization in Mesopotamia?|Sumerians,Assyrians,Babylonians|Sumerians
+Who was the famous queen of England who ruled during the Spanish Armada?|Elizabeth I,Victoria,Anne|Elizabeth I
+In which year did the Roman Empire fall?|476 AD,500 AD,400 AD|476 AD
+Who was the famous explorer who sailed to the New World in 1492?|Christopher Columbus,Ferdinand Magellan,Marco Polo|Christopher Columbus
+What event started World War II?|The invasion of Poland,The assassination of Archduke Ferdinand,D-Day|The invasion of Poland
+Who was the first human to travel into space?|Yuri Gagarin,Neil Armstrong,John Glenn|Yuri Gagarin
+In which year was the Magna Carta signed?|1215,1300,1350|1215
+Who was the first king of the Israelites?|Saul,David,Solomon|Saul
+What year did the Battle of Hastings take place?|1066,1015,1100|1066
+Who was the first female prime minister of the United Kingdom?|Margaret Thatcher,Theresa May,Queen Elizabeth II|Margaret Thatcher
+Which empire was ruled by Julius Caesar?|Roman Empire,Ottoman Empire,Byzantine Empire|Roman Empire
+What was the cause of the Cold War?|Ideological conflict between the US and USSR,World War II,The Cuban Missile Crisis|Ideological conflict between the US and USSR
+In what year did the United States enter World War II?|1941,1939,1942|1941
+Who was the leader of the Mongol Empire?|Genghis Khan,Kublai Khan,Hun, Attila|Genghis Khan
+What famous battle took place in 1066 in England?|Battle of Hastings,Battle of Waterloo,Battle of Agincourt|Battle of Hastings
+What year did the Vietnam War end?|1975,1970,1980|1975
+Who was the leader of the Confederate Army during the American Civil War?|Robert E. Lee,Abraham Lincoln,Stonewall Jackson|Robert E. Lee
+What year was the first World War officially over?|1918,1920,1917|1918
+What famous historical document was signed in 1787?|The U.S. Constitution,The Magna Carta,Bill of Rights|The U.S. Constitution
+Who was the first emperor of the Roman Empire?|Augustus,Caligula,Nero|Augustus
+Who was the founder of the Mongol Empire?|Genghis Khan,Kublai Khan,Attila the Hun|Genghis Khan
+What year did Christopher Columbus sail to the Americas?|1492,1482,1500|1492
+Who was the last emperor of the Roman Empire?|Romulus Augustulus,Augustus,Constantine|Romulus Augustulus
+What year was the Battle of Waterloo?|1815,1799,1805|1815
+Who led the Soviet Union during World War II?|Joseph Stalin,Nikita Khrushchev,Vladimir Lenin|Joseph Stalin
+Who was the leader of the American civil rights movement?|Martin Luther King Jr.,Malcolm X,Rosa Parks|Martin Luther King Jr.
+What year was the American Revolutionary War officially ended?|1783,1781,1790|1783
+Who was the first emperor of Japan?|Emperor Jimmu,Emperor Akihito,Emperor Meiji|Emperor Jimmu
+Who was the first President of South Africa after apartheid?|Nelson Mandela,Desmond Tutu,Thabo Mbeki|Nelson Mandela
+What year did the Korean War begin?|1950,1955,1945|1950
+What was the primary reason for the fall of the Roman Empire?|Economic collapse,Barbarian invasions,Religious conflict|Barbarian invasions
+In which year was the United Nations founded?|1945,1939,1920|1945
+Who was the longest-reigning monarch in British history?|Queen Elizabeth II,Queen Victoria,King George III|Queen Elizabeth II
+What event started the American Civil War?|The Battle of Fort Sumter,The Battle of Gettysburg,The assassination of Abraham Lincoln|The Battle of Fort Sumter
+Who was the first explorer to sail around the world?|Ferdinand Magellan,Marco Polo,Christopher Columbus|Ferdinand Magellan
+What was the main cause of the American Revolution?|Taxation without representation,Slavery,Religious freedom|Taxation without representation
+What year did the American Civil Rights Movement reach its peak?|1960s,1950s,1970s|1960s
+Who was the famous leader of the French Resistance during World War II?|Charles de Gaulle,Josephine Baker,Jean Moulin|Charles de Gaulle
+Who led the charge against the Spanish at the Battle of the Alamo?|Davy Crockett,Sam Houston,James Bowie|Davy Crockett
+Who was the famous Russian leader during the October Revolution?|Vladimir Lenin,Joseph Stalin,Leon Trotsky|Vladimir Lenin
+What year did the US Civil War begin?|1861,1865,1870|1861
+What was the name of the first human-made satellite launched into space?|Sputnik 1,Explorer 1,Hubble|Sputnik 1
+In what year did India gain independence from Britain?|1947,1950,1939|1947
+Who was the first woman to become a Prime Minister?|Sirimavo Bandaranaike,Indira Gandhi,Golda Meir|Sirimavo Bandaranaike
+Who invented the printing press?|Johannes Gutenberg,Leonardo da Vinci,Nikola Tesla|Johannes Gutenberg
+In which year did the French Revolution end?|1799,1791,1804|1799
+What was the name of the ship that brought the first English settlers to Jamestown?|Susan Constant,Mayflower,Endeavour|Susan Constant
+What year did the US enter World War I?|1917,1915,1916|1917
+Who was the first king of France?|Clovis I,Charlemagne,Philip II|Clovis I
+What year did the Great Fire of London happen?|1666,1650,1670|1666
+Who was the first African American president of the United States?|Barack Obama,Colin Powell,Martin Luther King Jr.|Barack Obama
+What was the name of the war fought between the North and South in the United States?|The Civil War,The Revolutionary War,The War of 1812|The Civil War
+What was the last major battle of World War II?|Battle of the Bulge,Battle of Stalingrad,Battle of Berlin|Battle of Berlin
+In which year did the Great Depression begin?|1929,1925,1930|1929
+Who was the leader of the Allied forces during World War II?|Dwight D. Eisenhower,George Patton,Bernard Montgomery|Dwight D. Eisenhower
+What empire was ruled by Julius Caesar?|Roman Empire,Ottoman Empire,Persian Empire|Roman Empire
+Who was the leader of the Confederacy during the Civil War?|Jefferson Davis,Abraham Lincoln,Robert E. Lee|Jefferson Davis
+What year did the Magna Carta get signed?|1215,1205,1220|1215
+What year did the Renaissance begin?|1300s,1400s,1500s|1300s
+Who was the first ruler of the Byzantine Empire?|Constantine I,Justinian I,Theodosius I|Constantine I
+Who was the first female pharaoh of Egypt?|Hatshepsut,Cleopatra,Nefertiti|Hatshepsut
+In which century did the Black Death occur?|14th century,13th century,15th century|14th century
+Who was the longest-serving British monarch before Queen Elizabeth II?|Queen Victoria,King George III,King Edward VIII|Queen Victoria
+What year was the Battle of Agincourt?|1415,1400,1420|1415
+Who was the first leader of the Soviet Union?|Vladimir Lenin,Joseph Stalin,Nikita Khrushchev|Vladimir Lenin
+What year was the Magna Carta signed?|1215,1300,1200|1215
+Who was the leader of the Ottoman Empire during its peak?|Suleiman the Magnificent,Mehmed II,Osman I|Suleiman the Magnificent
+Who invented the light bulb?|Thomas Edison,Alexander Graham Bell,Nikola Tesla|Thomas Edison
+What year did World War II begin?|1939,1938,1941|1939
+What year was the first moon landing?|1969,1971,1965|1969
+What ancient civilization built the Great Wall of China?|Chinese,Egyptians,Romans|Chinese
+What year was the French Revolution?|1789,1790,1800|1789
+Who was the first monarch of the Tudor dynasty?|Henry VII,Henry VIII,Elizabeth I|Henry VII
+What year did the Vietnam War end?|1975,1970,1980|1975
+What year was the American Declaration of Independence signed?|1776,1775,1789|1776
+What was the primary cause of the Cold War?|Ideological conflict between the US and USSR,World War II,The Cuban Missile Crisis|Ideological conflict between the US and USSR
+What year was the Berlin Wall built?|1961,1959,1970|1961
+Who was the first woman to be awarded the Nobel Prize?|Marie Curie,Elizabeth Blackwell,Rosalind Franklin|Marie Curie
