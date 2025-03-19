@@ -398,3 +398,103 @@ Which Pokémon evolves from Cleffa?|Clefairy,Clefable,Jigglypuff|Clefairy
 What type of Pokémon is Gengar?|Ghost/Poison,Fire,Dragon|Ghost/Poison
 Who is the Champion of the Johto region in Pokémon Gold and Silver?|Lance,Will,Red|Lance
 Which Legendary Pokémon is associated with the region of Unova?|Reshiram,Zekrom,Lugia|Reshiram
+Who was the first President of Ireland?|Douglas Hyde,Michael D. Higgins,Erskine Childers|Douglas Hyde
+What year did Ireland gain independence from the United Kingdom?|1916,1922,1939|1922
+Who led the 1916 Easter Rising in Dublin?|Patrick Pearse,James Connolly,Michael Collins|Patrick Pearse
+Which Irish political party was founded by Eamon de Valera?|Fianna Fáil,Sinn Féin,Labour Party|Fianna Fáil
+What was the Irish War of Independence also known as?|The Anglo-Irish War,The Civil War,The Great Rebellion|The Anglo-Irish War
+What treaty ended the Irish War of Independence?|The Treaty of Versailles,The Anglo-Irish Treaty,The Good Friday Agreement|The Anglo-Irish Treaty
+What year was the Irish Free State established?|1916,1922,1937|1922
+Who was the first Taoiseach of Ireland?|Éamon de Valera,John A. Costello,Seán Lemass|W.T. Cosgrave
+What Irish writer won the Nobel Prize in Literature in 1923?|W.B. Yeats,George Bernard Shaw,Samuel Beckett|W.B. Yeats
+What was the name of the Irish rebellion in 1798?|The Irish Rebellion of 1798,The Easter Rising,The Great Rebellion|The Irish Rebellion of 1798
+Who was the Irish revolutionary leader during the 1916 Easter Rising?|James Connolly,Michael Collins,Éamon de Valera|James Connolly
+What was the name of the Irish Parliament established in 1919?|Dáil Éireann,Seanad Éireann,House of Commons|Dáil Éireann
+What did the Irish people vote on in the 1921 Anglo-Irish Treaty?|Independence,Partition,Reform|Independence
+Which Irish nationalist leader was executed after the 1916 Easter Rising?|Michael Collins,James Connolly,Patrick Pearse|James Connolly
+What event marked the beginning of the Irish Civil War?|The signing of the Anglo-Irish Treaty,The death of Michael Collins,The establishment of the Irish Free State|The signing of the Anglo-Irish Treaty
+What was the Irish rebellion of 1641 primarily about?|Religious conflict,Land disputes,Political independence|Religious conflict
+Which treaty was signed in 1801 that created the United Kingdom of Great Britain and Ireland?|The Act of Union,The Treaty of Limerick,The Good Friday Agreement|The Act of Union
+Who was the leader of the Irish rebellion of 1798?|Wolfe Tone,Robert Emmet,Michael Collins|Wolfe Tone
+What Irish poet is known for his works like "The Lake Isle of Innisfree"?|W.B. Yeats,Oscar Wilde,Seamus Heaney|W.B. Yeats
+Which battle was a major defeat for Irish forces during the Cromwellian Conquest?|Battle of the Boyne,Battle of Aughrim,Battle of Clontarf|Battle of Aughrim
+What is the significance of the Battle of the Boyne (1690)?|It was a victory for the Irish rebels,It marked the end of the Irish Civil War,It was a defeat for the Catholic King James II|It was a defeat for the Catholic King James II
+Which Irish nationalist group was founded in 1905 by Sinn Féin?|The Irish Volunteers,The Irish Republican Brotherhood,The Irish Citizen Army|The Irish Volunteers
+Who was the Irish nationalist leader during the War of Independence?|Michael Collins,Éamon de Valera,John Redmond|Michael Collins
+What major event in 1845-1852 caused a famine in Ireland?|The potato blight,The Great Fire,The Civil War|The potato blight
+What was the outcome of the Irish War of Independence?|Ireland became part of the UK,The Anglo-Irish Treaty was signed,The Republic of Ireland was formed|The Anglo-Irish Treaty was signed
+Which Irish revolutionary group was responsible for the 1916 Easter Rising?|Sinn Féin,The Irish Volunteers,The Irish Republican Brotherhood|The Irish Volunteers
+What was the political result of the Irish Civil War?|Unification with Northern Ireland,The formation of the Irish Free State,The partition of Ireland|The formation of the Irish Free State
+Which document formally established the Irish Free State in 1922?|The Act of Union,The Anglo-Irish Treaty,The Constitution of Ireland|The Anglo-Irish Treaty
+Who was the last King of Ireland?|King Henry VIII,King James II,King Charles I|King James II
+What Irish political party was founded in 1905 by Arthur Griffith?|Sinn Féin,Fianna Fáil,Labour Party|Sinn Féin
+What was the name of the Irish group that fought for independence in the early 20th century?|The Irish Republican Army,The Irish Volunteers,The IRA|The Irish Republican Army
+What significant event occurred in 1969 in Northern Ireland?|The start of the Troubles,The signing of the Good Friday Agreement,The Battle of the Boyne|The start of the Troubles
+What was the outcome of the Good Friday Agreement (1998)?|A ceasefire between the IRA and British forces,The unification of Ireland,Full independence from the UK|A ceasefire between the IRA and British forces
+Who was the first Irish woman to be elected to the Dáil Éireann?|Countess Markievicz,Mary Robinson,Sarah Curran|Countess Markievicz
+Who was the first monarch of Ireland after the Norman Conquest?|King John,King Henry II,King Richard I|King Henry II
+What political act in 1921 led to the division of Ireland into Northern Ireland and the Irish Free State?|The Act of Union,The Partition of Ireland,The Anglo-Irish Treaty|The Anglo-Irish Treaty
+Which event marked the end of the Irish Civil War in 1923?|The signing of the Anglo-Irish Treaty,The death of Michael Collins,The ceasefire declaration|The ceasefire declaration
+What famous Irish political leader was known for advocating for Irish independence and unification?|Michael Collins,Charles Stewart Parnell,James Connolly|Charles Stewart Parnell
+What year did Ireland officially become a republic?|1937,1949,1956|1949
+Who was the Irish nationalist leader executed in 1916 for his role in the Easter Rising?|James Connolly,Michael Collins,Éamon de Valera|James Connolly
+What was the name of the Irish parliament established in 1919?|Dáil Éireann,Seanad Éireann,House of Lords|Dáil Éireann
+What was the Irish independence movement's primary goal in the early 20th century?|Self-rule,Home Rule,Full independence|Full independence
+What was the name of the treaty that ended the Irish Civil War in 1923?|The Anglo-Irish Treaty,The Treaty of Limerick,The Belfast Agreement|The Anglo-Irish Treaty
+What was the main cause of the Irish Famine of 1845-1852?|Crop failure,Rebellions,The Irish Civil War|Crop failure
+What Irish leader became the first president of the Republic of Ireland in 1938?|Douglas Hyde,Michael D. Higgins,Erskine Childers|Douglas Hyde
+What was the "Troubles" in Northern Ireland?|A period of civil unrest and violence between Catholic nationalists and Protestant unionists|The Irish Civil War|A famine|A period of civil unrest and violence between Catholic nationalists and Protestant unionists
+What year did the Irish Republic officially declare independence?|1916,1921,1937|1916
+What was the name of the Irish revolutionary group that led the 1916 Easter Rising?|The Irish Volunteers,The Irish Republican Army,The Irish Citizen Army|The Irish Volunteers
+What was the term used for the Irish political divide between pro and anti-Treaty forces after the War of Independence?|The Battle of the Boyne,The Irish Civil War,The Partition of Ireland|The Irish Civil War
+Who was the leader of the Irish Free State from 1922 to 1932?|W.T. Cosgrave,Éamon de Valera,John A. Costello|W.T. Cosgrave
+What event in Irish history is commemorated every year on March 17th?|St. Patrick's Day,The Easter Rising,The Battle of the Boyne|St. Patrick's Day
+What year did the Republic of Ireland leave the British Commonwealth?|1922,1937,1949|1949
+Who was the leader of the Irish Volunteers during the Easter Rising?|Patrick Pearse,Michael Collins,James Connolly|Patrick Pearse
+What act allowed the establishment of the Irish Free State in 1922?|The Anglo-Irish Treaty,The Treaty of Union,The Home Rule Act|The Anglo-Irish Treaty
+Which political leader helped negotiate the 1921 Anglo-Irish Treaty?|Michael Collins,Éamon de Valera,Arthur Griffith|Michael Collins
+What was the name of the penal laws in 18th century Ireland?|The Act of Union,The Cromwellian Laws,The Penal Laws|The Penal Laws
+Who led the Irish Volunteers during the 1916 Easter Rising?|James Connolly,Patrick Pearse,John Redmond|Patrick Pearse
+What was the purpose of the Irish Home Rule movement in the late 19th century?|To grant Ireland self-governance within the UK,To seek full independence,To demand religious equality|To grant Ireland self-governance within the UK
+What was the main reason for the Irish Famine of 1845-1852?|A potato blight,Overpopulation,War|A potato blight
+Which Irish leader is often considered the father of the Irish nation?|Éamon de Valera,Michael Collins,Charles Stewart Parnell|Charles Stewart Parnell
+What was the political result of the Irish Civil War?|The establishment of the Irish Free State,The reunification of Ireland,The partition of Northern Ireland|The establishment of the Irish Free State
+What year did the Irish War of Independence end?|1916,1921,1937|1921
+Who was the first person to sign the Anglo-Irish Treaty in 1921?|Arthur Griffith,Michael Collins,Éamon de Valera|Arthur Griffith
+Who founded the Irish Republican Army?|Michael Collins,James Connolly,Patrick Pearse|Michael Collins
+What was the key aim of the Irish Republican Brotherhood?|To fight for Irish independence,To seek political reforms,To promote economic growth|To fight for Irish independence
+What major historical event occurred in 1798 in Ireland?|The Irish Rebellion of 1798,The Anglo-Irish Treaty,The Battle of the Boyne|The Irish Rebellion of 1798
+What was the significance of the Irish War of Independence?|Ireland became a republic,The Irish Free State was established,Partition occurred|The Irish Free State was established
+What was the result of the Irish War of Independence?|The partition of Ireland,The creation of Northern Ireland,The end of British rule in Ireland|The partition of Ireland
+Who was the leader of the Irish nationalists in the 1916 Easter Rising?|Patrick Pearse,John Redmond,Éamon de Valera|Patrick Pearse
+What year was the Irish Free State officially established?|1916,1921,1922|1922
+What was the major economic impact of the Irish Famine?|Widespread poverty and migration,The collapse of Ireland's economy,The end of the potato crop|Widespread poverty and migration
+What was the political outcome of the Irish War of Independence?|Ireland became part of the UK,The Irish Free State was created,The Republic of Ireland was established|The Irish Free State was created
+What was the name of the Irish nationalist group that sought independence from Britain?|Sinn Féin,Fianna Fáil,The Irish Republican Brotherhood|Sinn Féin
+What was the outcome of the Irish Civil War?|The formation of the Irish Free State,The reunification of Ireland,The collapse of the British Empire|The formation of the Irish Free State
+What famous Irish writer was exiled to Paris due to his political activism?|W.B. Yeats,Oscar Wilde,James Joyce|Oscar Wilde
+What was the goal of the Irish Home Rule movement?|Self-rule within the British Empire,To break away from the British Empire,To seek religious freedom|Self-rule within the British Empire
+What historical event in Ireland led to the mass migration to the United States in the 19th century?|The Irish Famine,The Irish War of Independence,The Easter Rising|The Irish Famine
+What was the result of the Irish War of Independence?|Ireland became a republic,The Irish Free State was established,Partition of Ireland occurred|The Irish Free State was established
+What key figure in Irish history was executed following the 1916 Easter Rising?|James Connolly,Michael Collins,Éamon de Valera|James Connolly
+What year did the Act of Union come into effect?|1801,1820,1900|1801
+What major Irish conflict began in 1969?|The Troubles,The Irish Civil War,The Battle of the Boyne|The Troubles
+What Irish leader is associated with the signing of the 1921 Anglo-Irish Treaty?|Michael Collins,Éamon de Valera,Arthur Griffith|Michael Collins
+Who was the leader of Sinn Féin during the War of Independence?|Éamon de Valera,Michael Collins,Arthur Griffith|Éamon de Valera
+What Irish poet was known for his works like "The Second Coming"?|W.B. Yeats,Seamus Heaney,Oscar Wilde|W.B. Yeats
+What was the primary issue in the Irish Civil War?|The Treaty of Union,Partition,The Anglo-Irish Treaty|The Anglo-Irish Treaty
+Who was the Irish revolutionary leader who negotiated the Anglo-Irish Treaty?|Michael Collins,Arthur Griffith,Éamon de Valera|Michael Collins
+What Irish political party was founded by Eamon de Valera in 1926?|Fianna Fáil,Sinn Féin,Labour Party|Fianna Fáil
+What year did Ireland officially become a republic?|1937,1949,1956|1949
+What was the primary cause of the Irish Famine of 1845?|Potato blight,War,Floods|Potato blight
+What political group was responsible for the 1916 Easter Rising?|The Irish Volunteers,The Irish Republican Army,The IRA|The Irish Volunteers
+Which battle was a major defeat for Irish forces during the Cromwellian Conquest?|Battle of the Boyne,Battle of Aughrim,Battle of Clontarf|Battle of Aughrim
+What year was the Irish Civil War officially concluded?|1921,1923,1937|1923
+What historical event marked the end of Irish resistance to British rule in the 17th century?|The Act of Union,The Cromwellian Conquest,The Battle of the Boyne|The Cromwellian Conquest
+What document led to the creation of Northern Ireland in 1921?|The Good Friday Agreement,The Anglo-Irish Treaty,The Partition Act|The Anglo-Irish Treaty
+What event marked the end of British rule in Ireland in 1922?|The signing of the Anglo-Irish Treaty,The Irish Free State's establishment,The signing of the Treaty of Limerick|The Irish Free State's establishment
+What was the primary cause of the Irish Famine?|The potato blight,Overpopulation,The potato crop disease|The potato blight
+What was the name of the Irish parliament established in 1919?|Dáil Éireann,Seanad Éireann,House of Commons|Dáil Éireann
+What Irish leader is most closely associated with the negotiation of the 1921 Anglo-Irish Treaty?|Éamon de Valera,Michael Collins,Arthur Griffith|Michael Collins
+What year did Ireland officially leave the British Commonwealth?|1922,1937,1949|1949
+Who was the leader of Sinn Féin during the Irish War of Independence?|Éamon de Valera,Michael Collins,Arthur Griffith|Éamon de Valera
