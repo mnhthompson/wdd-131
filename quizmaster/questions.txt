@@ -198,3 +198,103 @@ What year was the American Declaration of Independence signed?|1776,1775,1789|17
 What was the primary cause of the Cold War?|Ideological conflict between the US and USSR,World War II,The Cuban Missile Crisis|Ideological conflict between the US and USSR
 What year was the Berlin Wall built?|1961,1959,1970|1961
 Who was the first woman to be awarded the Nobel Prize?|Marie Curie,Elizabeth Blackwell,Rosalind Franklin|Marie Curie
+Who wrote the play Hamlet?|William Shakespeare,Christopher Marlowe,John Milton|William Shakespeare
+Who is the author of Pride and Prejudice?|Jane Austen,Charlotte Brontë,Emily Dickinson|Jane Austen
+Who wrote the novel Moby-Dick?|Herman Melville,F. Scott Fitzgerald,Ernest Hemingway|Herman Melville
+Who wrote the poem The Raven?|Edgar Allan Poe,Robert Frost,Emily Dickinson|Edgar Allan Poe
+Who is the author of Wuthering Heights?|Emily Brontë,Charlotte Brontë,Virginia Woolf|Emily Brontë
+Who wrote The Canterbury Tales?|Geoffrey Chaucer,John Milton,William Blake|Geoffrey Chaucer
+Who wrote the novel 1984?|George Orwell,Aldous Huxley,Ray Bradbury|George Orwell
+Who wrote the play Macbeth?|William Shakespeare,Christopher Marlowe,Henry James|William Shakespeare
+Who wrote The Great Gatsby?|F. Scott Fitzgerald,Ernest Hemingway,John Steinbeck|F. Scott Fitzgerald
+Who wrote Jane Eyre?|Charlotte Brontë,Emily Brontë,Louisa May Alcott|Charlotte Brontë
+Who is the author of Frankenstein?|Mary Shelley,Edgar Allan Poe,Oscar Wilde|Mary Shelley
+Who wrote the poem Ode to a Nightingale?|John Keats,William Wordsworth,Shelley|John Keats
+Who wrote the novel Brave New World?|Aldous Huxley,George Orwell,Ray Bradbury|Aldous Huxley
+Who wrote The Odyssey?|Homer,Virgil,Aristophanes|Homer
+Who wrote The Divine Comedy?|Dante Alighieri,Geoffrey Chaucer,William Blake|Dante Alighieri
+Who wrote the play A Midsummer Night's Dream?|William Shakespeare,Christopher Marlowe,Oscar Wilde|William Shakespeare
+Who wrote The Picture of Dorian Gray?|Oscar Wilde,James Joyce,Virginia Woolf|Oscar Wilde
+Who wrote The Catcher in the Rye?|J.D. Salinger,John Steinbeck,F. Scott Fitzgerald|J.D. Salinger
+Who wrote The Scarlet Letter?|Nathaniel Hawthorne,Henry James,Mark Twain|Nathaniel Hawthorne
+Who wrote The Sun Also Rises?|Ernest Hemingway,F. Scott Fitzgerald,John Steinbeck|Ernest Hemingway
+Who is the author of Ulysses?|James Joyce,Samuel Beckett,Virginia Woolf|James Joyce
+Who wrote The Road?|Cormac McCarthy,Philip K. Dick,J.D. Salinger|Cormac McCarthy
+Who wrote The Metamorphosis?|Franz Kafka,Hermann Hesse,T.S. Eliot|Franz Kafka
+Who wrote Winnie-the-Pooh?|A.A. Milne,L. Frank Baum,Roald Dahl|A.A. Milne
+Who wrote To Kill a Mockingbird?|Harper Lee,Mark Twain,F. Scott Fitzgerald|Harper Lee
+Who wrote Great Expectations?|Charles Dickens,Thomas Hardy,George Eliot|Charles Dickens
+Who wrote The Grapes of Wrath?|John Steinbeck,William Faulkner,F. Scott Fitzgerald|John Steinbeck
+Who wrote A Tale of Two Cities?|Charles Dickens,Jane Austen,George Eliot|Charles Dickens
+Who wrote The Bell Jar?|Sylvia Plath,Virginia Woolf,Charlotte Perkins Gilman|Sylvia Plath
+Who wrote The Lord of the Rings?|J.R.R. Tolkien,C.S. Lewis,George R.R. Martin|J.R.R. Tolkien
+Who wrote The Stranger?|Albert Camus,Sartre,Simone de Beauvoir|Albert Camus
+Who wrote The Hobbit?|J.R.R. Tolkien,C.S. Lewis,George R.R. Martin|J.R.R. Tolkien
+Who wrote The Fault in Our Stars?|John Green,Stephen Chbosky,J.K. Rowling|John Green
+Who wrote The Catcher in the Rye?|J.D. Salinger,John Steinbeck,F. Scott Fitzgerald|J.D. Salinger
+Who wrote The Old Man and the Sea?|Ernest Hemingway,John Steinbeck,F. Scott Fitzgerald|Ernest Hemingway
+Who wrote The Odyssey?|Homer,Virgil,Ovid|Homer
+Who wrote Of Mice and Men?|John Steinbeck,William Faulkner,Ernest Hemingway|John Steinbeck
+Who wrote Les Misérables?|Victor Hugo,Alexandre Dumas,Emile Zola|Victor Hugo
+Who wrote The Call of the Wild?|Jack London,Herman Melville,Ernest Hemingway|Jack London
+Who wrote The Secret Garden?|Frances Hodgson Burnett,L.M. Montgomery,Beatrix Potter|Frances Hodgson Burnett
+Who wrote The Shining?|Stephen King,Edgar Allan Poe,H.P. Lovecraft|Stephen King
+Who wrote The Trial?|Franz Kafka,Thomas Mann,Hermann Hesse|Franz Kafka
+Who wrote A Portrait of the Artist as a Young Man?|James Joyce,Virginia Woolf,William Faulkner|James Joyce
+Who wrote The Hunger Games?|Suzanne Collins,Veronica Roth,Philip Pullman|Suzanne Collins
+Who wrote The Color Purple?|Alice Walker,Toni Morrison,Maya Angelou|Alice Walker
+Who wrote The Kite Runner?|Khaled Hosseini,Salman Rushdie,Orhan Pamuk|Khaled Hosseini
+Who wrote One Hundred Years of Solitude?|Gabriel García Márquez,Isabel Allende,Julia de Burgos|Gabriel García Márquez
+Who wrote The Handmaid's Tale?|Margaret Atwood,Doris Lessing,Angela Carter|Margaret Atwood
+Who wrote The Outsiders?|S.E. Hinton,J.D. Salinger,Mark Twain|S.E. Hinton
+Who wrote The Giver?|Lois Lowry,J.K. Rowling,Philip Pullman|Lois Lowry
+Who wrote The Brothers Karamazov?|Fyodor Dostoevsky,Leo Tolstoy,Anton Chekhov|Fyodor Dostoevsky
+Who wrote Crime and Punishment?|Fyodor Dostoevsky,Leo Tolstoy,Anton Chekhov|Fyodor Dostoevsky
+Who wrote Anna Karenina?|Leo Tolstoy,Anton Chekhov,Fyodor Dostoevsky|Leo Tolstoy
+Who wrote War and Peace?|Leo Tolstoy,Anton Chekhov,Fyodor Dostoevsky|Leo Tolstoy
+Who wrote The Brothers Grimm Fairy Tales?|Jacob and Wilhelm Grimm,Charles Perrault,Hans Christian Andersen|Jacob and Wilhelm Grimm
+Who wrote The House on Mango Street?|Sandra Cisneros,Julia Alvarez,Isabel Allende|Sandra Cisneros
+Who wrote The Turn of the Screw?|Henry James,Edith Wharton,James Joyce|Henry James
+Who wrote The Death of Ivan Ilyich?|Leo Tolstoy,Fyodor Dostoevsky,Anton Chekhov|Leo Tolstoy
+Who wrote Siddhartha?|Hermann Hesse,Fyodor Dostoevsky,Leo Tolstoy|Hermann Hesse
+Who wrote The Call of Cthulhu?|H.P. Lovecraft,Edgar Allan Poe,Stephen King|H.P. Lovecraft
+Who wrote Lord of the Flies?|William Golding,George Orwell,Ray Bradbury|William Golding
+Who wrote The Grapes of Wrath?|John Steinbeck,Ernest Hemingway,F. Scott Fitzgerald|John Steinbeck
+Who wrote The Invisible Man?|Ralph Ellison,James Baldwin,Langston Hughes|Ralph Ellison
+Who wrote The Bell Jar?|Sylvia Plath,Toni Morrison,Virginia Woolf|Sylvia Plath
+Who wrote Beloved?|Toni Morrison,James Baldwin,Richard Wright|Toni Morrison
+Who wrote The Road to Wigan Pier?|George Orwell,Aldous Huxley,John Steinbeck|George Orwell
+Who wrote Dracula?|Bram Stoker,Mary Shelley,Edgar Allan Poe|Bram Stoker
+Who wrote Alice's Adventures in Wonderland?|Lewis Carroll,Charles Dickens,Beatrix Potter|Lewis Carroll
+Who wrote The Adventures of Huckleberry Finn?|Mark Twain,Ernest Hemingway,F. Scott Fitzgerald|Mark Twain
+Who wrote The Prince?|Niccolò Machiavelli,Thomas Hobbes,Jean-Jacques Rousseau|Niccolò Machiavelli
+Who wrote The Stranger?|Albert Camus,Sartre,Simone de Beauvoir|Albert Camus
+Who wrote The Picture of Dorian Gray?|Oscar Wilde,Virginia Woolf,James Joyce|Oscar Wilde
+Who wrote Mrs. Dalloway?|Virginia Woolf,James Joyce,William Faulkner|Virginia Woolf
+Who wrote The Waste Land?|T.S. Eliot,Ezra Pound,Wallace Stevens|T.S. Eliot
+Who wrote The Importance of Being Earnest?|Oscar Wilde,Christopher Marlowe,George Bernard Shaw|Oscar Wilde
+Who wrote Waiting for Godot?|Samuel Beckett,Harold Pinter,Tom Stoppard|Samuel Beckett
+Who wrote The Death of Arthur?|Sir Thomas Malory,Geoffrey Chaucer,William Shakespeare|Sir Thomas Malory
+Who wrote The Yellow Wallpaper?|Charlotte Perkins Gilman,Virginia Woolf,Edith Wharton|Charlotte Perkins Gilman
+Who wrote Fahrenheit 451?|Ray Bradbury,George Orwell,Aldous Huxley|Ray Bradbury
+Who wrote The Old Man and the Sea?|Ernest Hemingway,John Steinbeck,F. Scott Fitzgerald|Ernest Hemingway
+Who wrote The Jungle?|Upton Sinclair,Jack London,John Steinbeck|Upton Sinclair
+Who wrote The Hobbit?|J.R.R. Tolkien,C.S. Lewis,George R.R. Martin|J.R.R. Tolkien
+Who wrote The House of the Seven Gables?|Nathaniel Hawthorne,Edgar Allan Poe,Mark Twain|Nathaniel Hawthorne
+Who wrote The Old Curiosity Shop?|Charles Dickens,George Eliot,Thomas Hardy|Charles Dickens
+Who wrote The Book Thief?|Markus Zusak,J.K. Rowling,John Green|Markus Zusak
+Who wrote The Night Circus?|Erin Morgenstern,Leigh Bardugo,Sarah J. Maas|Erin Morgenstern
+Who wrote The Time Traveler's Wife?|Audrey Niffenegger,Stephen King,George Orwell|Audrey Niffenegger
+Who wrote The Lovely Bones?|Alice Sebold,Jodi Picoult,Donna Tartt|Alice Sebold
+Who wrote The Hitchhiker's Guide to the Galaxy?|Douglas Adams,Terry Pratchett,Neil Gaiman|Douglas Adams
+Who wrote The Stand?|Stephen King,George R.R. Martin,J.R.R. Tolkien|Stephen King
+Who wrote The Princess Bride?|William Goldman,George R.R. Martin,J.R.R. Tolkien|William Goldman
+Who wrote The Alchemist?|Paulo Coelho,Haruki Murakami,Isabel Allende|Paulo Coelho
+Who wrote The Girl with the Dragon Tattoo?|Stieg Larsson,Dan Brown,John Grisham|Stieg Larsson
+Who wrote The Silence of the Lambs?|Thomas Harris,Stephen King,Dan Brown|Thomas Harris
+Who wrote The Shining?|Stephen King,Edgar Allan Poe,Ray Bradbury|Stephen King
+Who wrote The Godfather?|Mario Puzo,Stephen King,John Grisham|Mario Puzo
+Who wrote Ender's Game?|Orson Scott Card,Isaac Asimov,Philip K. Dick|Orson Scott Card
+Who wrote The Dark Tower series?|Stephen King,George R.R. Martin,J.K. Rowling|Stephen King
+Who wrote The Chronicles of Narnia?|C.S. Lewis,J.R.R. Tolkien,Philip Pullman|C.S. Lewis
+Who wrote The Name of the Wind?|Patrick Rothfuss,George R.R. Martin,J.R.R. Tolkien|Patrick Rothfuss
