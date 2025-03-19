@@ -298,3 +298,103 @@ Who wrote Ender's Game?|Orson Scott Card,Isaac Asimov,Philip K. Dick|Orson Scott
 Who wrote The Dark Tower series?|Stephen King,George R.R. Martin,J.K. Rowling|Stephen King
 Who wrote The Chronicles of Narnia?|C.S. Lewis,J.R.R. Tolkien,Philip Pullman|C.S. Lewis
 Who wrote The Name of the Wind?|Patrick Rothfuss,George R.R. Martin,J.R.R. Tolkien|Patrick Rothfuss
+Who is the mascot of the Pokémon franchise?|Pikachu,Charizard,Bulbasaur|Pikachu
+Which Pokémon is known as the "Flame Pokémon"?|Charmander,Charizard,Magmar|Charmander
+Which Pokémon evolves into Golem?|Graveler,Geodude,Onix|Graveler
+Who is the Electric-type Pokémon known for its thunderbolt attacks?|Pikachu,Raichu,Zapdos|Pikachu
+What is the final evolution of Eevee with a Water Stone?|Vaporeon,Jolteon,Flareon|Vaporeon
+What type of Pokémon is Bulbasaur?|Grass/Poison,Fire/Flying,Water|Grass/Poison
+What is Ash's first Pokémon in the anime?|Pikachu,Charmander,Bulbasaur|Pikachu
+Which Pokémon is known as the "Legendary Pokémon of the Sea"?|Lugia,Kyogre,Mewtwo|Lugia
+What is the evolved form of Pidgey?|Pidgeotto,Pidgeot,Zubat|Pidgeotto
+Which Pokémon is known for its ability to change its type using moves like "Conversion"?|Porygon,Ditto,Magikarp|Porygon
+Who is the Champion of the Kanto region in the Pokémon games?|Blue,Red,Giovanni|Blue
+Which Pokémon evolves from Eevee when exposed to a Thunder Stone?|Jolteon,Flareon,Vaporeon|Jolteon
+What type of Pokémon is Snorlax?|Normal,Fighting,Dark|Normal
+Which Legendary Pokémon is associated with time?|Dialga,Raikou,Zygarde|Dialga
+What is the final evolution of Bulbasaur?|Venusaur,Ivysaur,Charmander|Venusaur
+Which Pokémon can evolve into both Espeon and Umbreon?|Eevee,Murkrow,Meditite|Eevee
+Which Pokémon is known for its "Hyper Beam" move?|Tyranitar,Blastoise,Dragonite|Dragonite
+What is the name of Ash's rival in the anime?|Gary Oak,Tracey Sketchit,Paul|Gary Oak
+What is the name of the Pokémon region where Ruby and Sapphire take place?|Hoenn,Unova,Kanto|Hoenn
+Which Pokémon evolves into Machamp?|Machoke,Hitmonlee,Poliwhirl|Machoke
+Which Pokémon is known as the "Tiny Turtle Pokémon"?|Squirtle,Charmander,Totodile|Squirtle
+Who is the Legendary Pokémon associated with the moon?|Lunala,Solgaleo,Mewtwo|Lunala
+Which Pokémon is known for being a "shadow" Pokémon in the games?|Shadow Lugia,Mewtwo,Snorlax|Shadow Lugia
+What type of Pokémon is Charizard?|Fire/Flying,Fire/Dragon,Water/Flying|Fire/Flying
+What is the final evolution of Charmander?|Charizard,Charmeleon,Bulbasaur|Charizard
+Which Pokémon is famous for its ability to heal others with "Soft-Boiled"?|Chansey,Togepi,Jigglypuff|Chansey
+Which Pokémon is the mascot for the Pokémon Go app?|Pikachu,Mewtwo,Snorlax|Pikachu
+Which Pokémon evolves from Dratini?|Dragonair,Charizard,Dragonite|Dragonair
+Which Pokémon is known for saying "Jigglypuff"?|Jigglypuff,Meowth,Pikachu|Jigglypuff
+What type is the Pokémon Gyarados?|Water/Flying,Dragon/Flying,Water|Water/Flying
+What is the first Pokémon in the National Pokédex?|Bulbasaur,Charmander,Arceus|Bulbasaur
+Which Pokémon evolves into Poliwrath?|Poliwhirl,Politoed,Poliuko|Poliwhirl
+Who is the Champion of the Sinnoh region in the Pokémon games?|Cynthia,Barry,Paul|Cynthia
+What Pokémon is known as the "Fighting Pokémon"?|Machop,Hitmonlee,Poliwhirl|Machop
+Which Pokémon has the ability "Levitate"?|Magnemite,Drifloon,Haunter|Magnemite
+What type of Pokémon is Bulbasaur?|Grass/Poison,Fire,Fairy|Grass/Poison
+Which Legendary Pokémon is associated with space and the universe?|Dialga,Deoxys,Palkia|Deoxys
+Which Pokémon can transform into any other Pokémon in battle?|Ditto,Mewtwo,Magikarp|Ditto
+What is the evolved form of Ekans?|Arbok,Raichu,Zubat|Arbok
+What type of Pokémon is Togepi?|Fairy,Normal,Electric|Fairy
+What is the first Pokémon Ash caught in the wild?|Caterpie,Pidgey,Bulbasaur|Caterpie
+Which Pokémon is known as the "Mouse Pokémon"?|Pikachu,Raichu,Mankey|Pikachu
+What is the evolution of Eevee when exposed to a Fire Stone?|Flareon,Espeon,Vaporeon|Flareon
+Which Pokémon is known as the "Guardian of the Seas"?|Lugia,Kyogre,Mewtwo|Kyogre
+Which Pokémon evolves from Eevee when exposed to a Moon Stone?|Espeon,Umbreon,Leafeon|Umbreon
+Who is the Champion of the Unova region in the Pokémon games?|Alder,Cheryl,Cynthia|Alder
+Which Pokémon evolves into Venusaur?|Ivysaur,Bulbasaur,Charmander|Ivysaur
+Which Pokémon has the signature move "Spacial Rend"?|Dialga,Palkia,Latios|Palkia
+What is the evolution of Poliwag?|Poliwhirl,Politoed,Poliwrath|Poliwhirl
+Which Pokémon is known for its "Sing" move?|Jigglypuff,Meowth,Chansey|Jigglypuff
+What type of Pokémon is Onix?|Rock/Ground,Steel,Flying|Rock/Ground
+What is the evolved form of Zubat?|Golbat,Ditto,Charmander|Golbat
+What is the name of the Legendary Pokémon of the Hoenn region?|Kyogre,Ho-Oh,Raikou|Kyogre
+Which Pokémon is the first in the Sinnoh Pokédex?|Turtwig,Chimchar,Piplup|Turtwig
+What is the evolved form of Charmander?|Charmeleon,Charizard,Bulbasaur|Charmeleon
+What is the mascot for the Pokémon X and Y games?|Xerneas,Yveltal,Zygarde|Xerneas
+What type of Pokémon is Mewtwo?|Psychic,Fighting,Normal|Psychic
+Which Pokémon is known for its "Sacred Fire" attack?|Ho-Oh,Entei,Rakou|Ho-Oh
+What is the name of the Legendary Pokémon of the Johto region?|Ho-Oh,Suicune,Entei|Suicune
+What Pokémon is known for evolving into Gardevoir?|Ralts,Shuppet,Slugma|Ralts
+Who is the Champion of the Alola region in the Pokémon games?|Kahili,Hau,Lillie|Kahili
+Which Pokémon evolves into Wailord?|Wailmer,Whiscash,Barboach|Wailmer
+What is the final evolution of Charmander?|Charizard,Charmeleon,Blastoise|Charizard
+What type of Pokémon is Dragonite?|Dragon/Flying,Dragon/Fire,Flying|Dragon/Flying
+What type is the Pokémon Togekiss?|Fairy/Flying,Normal/Flying,Fighting/Fairy|Fairy/Flying
+Which Pokémon is known for being a "Genetic Pokémon"?|Mewtwo,Mew,Deoxys|Mewtwo
+Which Pokémon is the evolved form of Beldum?|Metagross,Steelix,Beldom|Metagross
+Which Legendary Pokémon is associated with the weather?|Rayquaza,Kyogre,Grookey|Rayquaza
+What is the evolved form of Pichu?|Pikachu,Raichu,Magnemite|Pikachu
+What is the signature move of Mewtwo?|Psystrike,Psychic,Fusion Flare|Psystrike
+What is the evolution of Caterpie?|Metapod,Venomoth,Pidgeot|Metapod
+Which Pokémon is known for its ability "Intimidate"?|Gyarados,Snorlax,Magikarp|Gyarados
+What is the evolution of Torchic?|Combusken,Blaziken,Bulbasaur|Combusken
+Which Legendary Pokémon is associated with the sun?|Solgaleo,Lunala,Zygarde|Solgaleo
+Which Pokémon evolves from Togepi?|Togetic,Togekiss,Pichu|Togetic
+What is the evolution of Psyduck?|Golduck,Porygon,Zubat|Golduck
+What Pokémon is the final evolution of Trubbish?|Garbodor,Surskit,Pidove|Garbodor
+What is the evolved form of Machop?|Machoke,Machamp,Poliwhirl|Machoke
+Which Pokémon is known for being the "Eon Pokémon"?|Latios,Latias,Mewtwo|Latios
+Which Pokémon evolves into Gardevoir?|Ralts,Kirlia,Gardevoir|Kirlia
+What type of Pokémon is Alakazam?|Psychic,Electric,Fire|Psychic
+Which Pokémon evolves into Roserade?|Roserade,Shroomish,Flabébé|Roserade
+What Pokémon is the evolved form of Seel?|Dewgong,Seal,Tentacool|Dewgong
+What is the mascot of Pokémon Ruby and Sapphire?|Kyogre,Ho-Oh,Rayquaza|Rayquaza
+What type of Pokémon is Golem?|Ground/Rock,Electric,Water|Ground/Rock
+What Pokémon is the evolved form of Wailmer?|Wailord,Magikarp,Barboach|Wailord
+Who is the rival character in Pokémon Gold and Silver?|Silver,Blue,Paul|Silver
+What type of Pokémon is Zubat?|Poison/Flying,Grass/Poison,Electric|Poison/Flying
+Who is the Champion of the Kalos region?|Diantha,Serena,Elan|Diantha
+What is the signature move of the Pokémon Snorlax?|Body Slam,Hyper Beam,Rest|Body Slam
+What is the evolved form of Magikarp?|Gyarados,Magmar,Zubat|Gyarados
+What is the evolution of Bulbasaur?|Ivysaur,Charmander,Pidgeot|Ivysaur
+Which Pokémon has the ability "Huge Power"?|Azumarill,Magikarp,Sunkern|Azumarill
+What is the final evolution of Chimchar?|Infernape,Monferno,Blaziken|Infernape
+What type of Pokémon is Mew?|Psychic,Fairy,Normal|Psychic
+What is the evolution of Shroomish?|Breloom,Seviper,Tropius|Breloom
+Which Pokémon evolves from Cleffa?|Clefairy,Clefable,Jigglypuff|Clefairy
+What type of Pokémon is Gengar?|Ghost/Poison,Fire,Dragon|Ghost/Poison
+Who is the Champion of the Johto region in Pokémon Gold and Silver?|Lance,Will,Red|Lance
+Which Legendary Pokémon is associated with the region of Unova?|Reshiram,Zekrom,Lugia|Reshiram
