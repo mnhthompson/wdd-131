@@ -37,7 +37,7 @@ body {
   background: linear-gradient(135deg, var(--accent1-color), white);
   transition: background-color 0.3s ease;
   margin: 0 auto;
-  padding: 4em;
+  padding: 2em;
   max-width: 1200px;
   font-size: 18px;
 }
